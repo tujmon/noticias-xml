@@ -19,6 +19,30 @@ extrai as seguintes informações:
 3) Essas informações deverão ser salvas em um arquivo de formato .html
 com o seguinte padrão:
 */
+#include <stdio.h>
+#include "functions.h"
+void findTag(FILE *fp, char tag[20]);
+
 int main(void)
 {
+    FILE *fp;
+    int ch;
+    char tag[20] = "";
+    int encontrouTag = 0;
+
+    fp = fopen("news.xml", "r");
+
+    if (fp == NULL)
+    {
+        fprintf(stderr, "Erro na abertura do arquivo");
+        return 1;
+    }
+    while ((ch = fgetc(fp)) != EOF)
+    {
+        if (ch == '<')
+        {
+            findTag(fp, tag);
+            printf("%s\n", tag);
+        }
+    }
 }
