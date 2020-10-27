@@ -101,10 +101,9 @@ int main(void)
         }
         if ((encontrouTag == 1) && (strcmp(tag, item) == 0))
         {
-            puts("");
-            puts("<hr>\n");
+
+            fprintf(fp2, "%s", "<hr>\n");
             encontrouTag = 0;
-            puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, pubDate) == 0))
         {
