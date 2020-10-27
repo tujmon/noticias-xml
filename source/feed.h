@@ -6,6 +6,6 @@
 #include <string.h>
 
 void findTag(FILE *fp, char tag[20]);
-void findContent(FILE *fp);
+void findContent(FILE *fp, FILE *fp2);
 
 #endif

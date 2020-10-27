@@ -30,17 +30,23 @@ const char *pubDate = "pubDate";
 int main(void)
 {
     FILE *fp;
+    FILE *fp2;
     int ch;
     char tag[20] = "";
     int encontrouTag = 0;
-    int i = 1;
     int count = 0;
 
     fp = fopen("./elpais.xml", "r");
+    fp2 = fopen("index.html", "w");
 
     if (fp == NULL)
     {
         fprintf(stderr, "Erro na abertura do arquivo");
+        return 1;
+    }
+    if (fp2 == NULL)
+    {
+        fprintf(stderr, "Erro!");
         return 1;
     }
     while ((ch = fgetc(fp)) != EOF)
@@ -54,13 +60,14 @@ int main(void)
         {
             if (count == 0)
             {
-                printf("<html>\n");
-                printf("<head>\n");
-                printf("    <title>");
-                findContent(fp);
-                printf("</title>\n");
-                printf("</head>\n");
-                printf("<body>\n");
+                fprintf(fp2, "%s", "<!DOCTYPE html>\n");
+                fprintf(fp2, "%s", "<html>\n");
+                fprintf(fp2, "%s", "<head>\n");
+                fprintf(fp2, "%s", "<title>");
+                findContent(fp, fp2);
+                fprintf(fp2, "%s", "</title>\n");
+                fprintf(fp2, "%s", "</head>\n");
+                fprintf(fp2, "%s", "<body>\n");
                 count = 1;
                 encontrouTag = 0;
                 puts("");
@@ -68,52 +75,51 @@ int main(void)
             }
             else
             {
-                printf("<h%d>", i);
-                findContent(fp);
-                printf("</h%d>", i);
-                i++;
+                fprintf(fp2, "%s", "<h2>");
+                findContent(fp, fp2);
+                fprintf(fp2, "%s", "</h2>\n");
                 encontrouTag = 0;
                 puts("");
             }
         }
         if ((encontrouTag == 1) && (strcmp(tag, link) == 0))
         {
-            printf("<a href=");
-            findContent(fp);
-            printf("> link");
-            printf(" </a>");
+            fprintf(fp2, "%s", "<a href=");
+            findContent(fp, fp2);
+            fprintf(fp2, "%s", ">Saber mais");
+            fprintf(fp2, "%s", " </a>\n");
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, description) == 0))
         {
-            printf("<p>");
-            findContent(fp);
-            printf("</p>");
+            fprintf(fp2, "%s", "<p>");
+            findContent(fp, fp2);
+            fprintf(fp2, "%s", "</p>\n");
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, item) == 0))
         {
             puts("");
-            puts("<hr>");
+            puts("<hr>\n");
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, pubDate) == 0))
         {
-            printf("<p>");
-            findContent(fp);
-            printf("</p>");
+            fprintf(fp2, "%s", "<p>");
+            findContent(fp, fp2);
+            fprintf(fp2, "%s", "</p>\n");
             encontrouTag = 0;
             puts("");
         }
     }
     puts("");
-    printf("<hr>");
+    fprintf(fp2, "%s", "<hr>\n");
     puts("");
-    printf("</body>\n");
-    printf("</html>");
+    fprintf(fp2, "%s", "</body>\n");
+    fprintf(fp2, "%s", "</html>");
 
     fclose(fp);
     return 0;
