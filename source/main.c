@@ -33,7 +33,7 @@ int main(void)
     char tag[20] = "";
     int encontrouTag = 0;
 
-    fp = fopen("./news.xml", "r");
+    fp = fopen("./globo.xml", "r");
 
     if (fp == NULL)
     {
@@ -49,6 +49,19 @@ int main(void)
         }
 
         if ((encontrouTag == 1) && (strcmp(tag, title) == 0))
+        {
+            findContent(fp);
+            encontrouTag = 0;
+            puts("");
+        }
+        if ((encontrouTag == 1) && (strcmp(tag, link) == 0))
+        {
+
+            findContent(fp);
+            encontrouTag = 0;
+            puts("");
+        }
+        if ((encontrouTag == 1) && (strcmp(tag, description) == 0))
         {
 
             findContent(fp);
