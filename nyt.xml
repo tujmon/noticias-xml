@@ -1,0 +1,1057 @@
+rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+<channel>
+<title>NYT > World News</title>
+<link>https://www.nytimes.com/section/world</link>
+<atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"/>
+<description/>
+<language>en-us</language>
+<copyright>Copyright 2020 The New York Times Company</copyright>
+<lastBuildDate>Tue, 27 Oct 2020 17:22:15 +0000</lastBuildDate>
+<pubDate>Tue, 27 Oct 2020 17:22:15 +0000</pubDate>
+<image>
+<title>NYT > World News</title>
+<url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+<link>https://www.nytimes.com/section/world</link>
+</image>
+<item>
+<title>How Trump and Bolsonaro Broke Latin America’s Covid-19 Defenses</title>
+<link>https://www.nytimes.com/2020/10/27/world/trump-bolsonaro-coronavirus-latin-america.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/trump-bolsonaro-coronavirus-latin-america.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/trump-bolsonaro-coronavirus-latin-america.html" rel="standout"/>
+<description>The two presidents drove out 10,000 Cuban doctors and nurses. They defunded the region’s leading health agency. They wrongly pushed hydroxychloroquine as a cure.</description>
+<pubDate>Tue, 27 Oct 2020 12:50:52 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hydroxychloroquine (Drug)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foundation for Human Rights in Cuba</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pan American Health Organization</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon River Basin</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guayaquil (Ecuador)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/23/world/xxcovidnationalists1/merlin_178938084_997e3165-ef78-4ee8-a65a-286fd7828dd9-moth.jpg" width="151"/>
+<media:credit>Daniel Berehulak for The New York Times</media:credit>
+<media:description>A Covid-19 ward in Guayaquil, Ecuador, where the coronavirus spread explosively in the early spring.</media:description>
+</item>
+<item>
+<title>Why a New Abortion Ban in Poland is Causing a Furor</title>
+<link>https://www.nytimes.com/2020/10/27/world/europe/poland-abortion-ruling-protests.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/europe/poland-abortion-ruling-protests.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/europe/poland-abortion-ruling-protests.html" rel="standout"/>
+<description>The ruling party has tried and failed in the Parliament to restrict abortion. Now the courts it controls have done it, instead, sparking the biggest protests since the government came to power.</description>
+<dc:creator>Monika Pronczuk</dc:creator>
+<pubDate>Tue, 27 Oct 2020 15:36:19 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law and Justice (Poland)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duda, Andrzej (1972- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26POLAND-EXPLAINER01/26POLAND-EXPLAINER01-moth.jpg" width="151"/>
+<media:credit>Marcin Stepien/Agencja Gazeta, via Reuters</media:credit>
+<media:description>Women dressed as handmaids protesting in a cathedral in Lodz on Sunday.</media:description>
+</item>
+<item>
+<title>Blast at Pakistani Religious School Kills at Least 8</title>
+<link>https://www.nytimes.com/2020/10/27/world/asia/pakistan-school-bombing.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/asia/pakistan-school-bombing.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/asia/pakistan-school-bombing.html" rel="standout"/>
+<description>No group claimed immediate responsibility for the bombing, which took place while classes were happening at a madrasa in the suburbs of Peshawar, Pakistan.</description>
+<dc:creator>Salman Masood</dc:creator>
+<pubDate>Tue, 27 Oct 2020 15:06:18 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peshawar (Pakistan)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/world/27pakistan-1/27pakistan-1-moth.jpg" width="151"/>
+<media:credit>Bilawal Arbab/EPA, via Shutterstock</media:credit>
+<media:description>Security officials inspect the scene in the aftermath of a bombing that took place at an Islamic school on Tuesday in Peshawar, Pakistan. At least seven people were killed.</media:description>
+</item>
+<item>
+<title>Ireland Mourns for Missing Dolphin Fungie</title>
+<link>https://www.nytimes.com/2020/10/27/world/europe/dingle-ireland-fungie-dolphin.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/europe/dingle-ireland-fungie-dolphin.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/europe/dingle-ireland-fungie-dolphin.html" rel="standout"/>
+<description>The dolphin, who is believed to have turned up in Dingle’s harbor 37 years ago and became a global tourist attraction, hasn’t been seen for two weeks. Locals are coming to terms with the fact that Fungie may never return.</description>
+<dc:creator>Ed O’Loughlin</dc:creator>
+<pubDate>Tue, 27 Oct 2020 13:25:46 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Dolphins and Porpoises</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">County Kerry (Ireland)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dingle (Ireland)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/world/27fungi1/27fungi1-moth.jpg" width="151"/>
+<media:credit>Hoberman Collection/Universal Images Group, via Getty Images</media:credit>
+<media:description>Fungie the dolphin in Dingle Bay, Ireland, in 2010.</media:description>
+</item>
+<item>
+<title>Hong Kong Police Arrest Activist Said to Seek U.S. Asylum</title>
+<link>https://www.nytimes.com/2020/10/27/world/asia/hong-kong-asylum-arrest.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/asia/hong-kong-asylum-arrest.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/asia/hong-kong-asylum-arrest.html" rel="standout"/>
+<description>Tony Chung, 19, had previously been a target of the authorities under the city’s new national security law.</description>
+<dc:creator>Austin Ramzy and Elaine Yu</dc:creator>
+<pubDate>Tue, 27 Oct 2020 10:39:32 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/world/27hongkong-1/27hongkong-1-moth.jpg" width="151"/>
+<media:credit>Isaac Lawrence/Agence France-Presse — Getty Images</media:credit>
+<media:description>Tony Chung in August. The pro-democracy activist was detained by the Hong Kong police on Tuesday. </media:description>
+</item>
+<item>
+<title>Taking a Page From White House, Boris Johnson Bets on Live Press Briefings</title>
+<link>https://www.nytimes.com/2020/10/26/world/europe/boris-johnson-allegra-stratton-live-media-briefings.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/europe/boris-johnson-allegra-stratton-live-media-briefings.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/europe/boris-johnson-allegra-stratton-live-media-briefings.html" rel="standout"/>
+<description>The British prime minister has hired a well-connected former political journalist to run newly televised press briefings, adopting an American ritual that grew increasingly contentious under President Trump.</description>
+<dc:creator>Mark Landler</dc:creator>
+<pubDate>Tue, 27 Oct 2020 12:01:12 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26uk-allegra/26uk-allegra-moth.jpg" width="151"/>
+<media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
+<media:description>Allegra Stratton arriving at 10 Downing Street earlier this month.</media:description>
+</item>
+<item>
+<title>How an Afghan Political Crisis Derailed Payments to War Victims</title>
+<link>https://www.nytimes.com/2020/10/27/world/asia/afghanistan-war-victims-compensation.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/asia/afghanistan-war-victims-compensation.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/asia/afghanistan-war-victims-compensation.html" rel="standout"/>
+<description>Sometimes money is the only form of justice for those who lost loved ones in Afghanistan’s unending war.</description>
+<dc:creator>Thomas Gibbons-Neff and Najim Rahim</dc:creator>
+<pubDate>Tue, 27 Oct 2020 14:46:21 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah, Abdullah</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghani, Ashraf</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kunduz (Afghanistan)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/world/00afghan-casualties-3/00afghan-casualties-3-moth.jpg" width="151"/>
+<media:credit>Najim Raheem/European Pressphoto Agency</media:credit>
+<media:description>Family members of civilians killed in a 2017 U.S. airstrike protested to receive compensation.</media:description>
+</item>
+<item>
+<title>Killing of Teacher, Samuel Paty, Raises Doubts on French Integration</title>
+<link>https://www.nytimes.com/2020/10/26/world/europe/france-beheading-teacher.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/europe/france-beheading-teacher.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/europe/france-beheading-teacher.html" rel="standout"/>
+<description>For generations, public schools assimilated immigrant children into French society by instilling the nation’s ideals. The beheading of a teacher has raised doubts about whether that model still works.</description>
+<dc:creator>Norimitsu Onishi and Constant Méheut</dc:creator>
+<pubDate>Mon, 26 Oct 2020 07:00:14 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paty, Samuel (1973-2020)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anzorov, Abdoullakh (d 2020)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/23/world/xxFRANCE-BEHEADING1/xxFRANCE-BEHEADING1-moth.jpg" width="151"/>
+<media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+<media:description>A memorial to Samuel Paty outside the school where he used to teach in Conflans-Sainte-Honorine, France.</media:description>
+</item>
+<item>
+<title>China Aims to End Extreme Poverty, but Covid-19 Exposes Gaps</title>
+<link>https://www.nytimes.com/2020/10/26/world/asia/china-poverty-covid-19.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/asia/china-poverty-covid-19.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/asia/china-poverty-covid-19.html" rel="standout"/>
+<description>The pandemic has worsened longstanding conditions that have widened inequality, hindering Xi Jinping’s vow to “leave no one behind.”</description>
+<dc:creator>Javier C. Hernández</dc:creator>
+<pubDate>Mon, 26 Oct 2020 12:35:55 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/11/25/world/25china-poverty-1-retoned/25china-poverty-1-retoned-moth.jpg" width="151"/>
+<media:credit>Roman Pilipey/EPA, via Shutterstock</media:credit>
+<media:description>Farmers at night school in Xiaoshan, a village in the southwestern Chinese province of Sichuan, one of the country’s poorest regions, during a government-led media tour.</media:description>
+</item>
+<item>
+<title> Women on Qatar Airways Flight Say They Were Strip-Searched</title>
+<link>https://www.nytimes.com/2020/10/26/world/australia/qatar-airways-women-strip-search-baby.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/australia/qatar-airways-women-strip-search-baby.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/australia/qatar-airways-women-strip-search-baby.html" rel="standout"/>
+<description>Female passengers said they were pulled from a Sydney-bound flight in Doha and given a medically invasive exam to see if they had recently given birth after an abandoned newborn was found in an airport bathroom.</description>
+<dc:creator>Livia Albeck-Ripka and Yan Zhuang</dc:creator>
+<pubDate>Tue, 27 Oct 2020 06:48:56 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Qatar Airways</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Doha (Qatar)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26oz-qatar-1/26oz-qatar-1-moth.jpg" width="151"/>
+<media:credit>Karim Jaafar/Agence France-Presse — Getty Images</media:credit>
+<media:description>“The Australian Government is deeply concerned at the unacceptable treatment of some female passengers on a recent Qatar Airways flight at Doha airport,” the Australian authorities said in a statement.</media:description>
+</item>
+<item>
+<title>Belarus Protesters Call for General Strike Against Lukashenko</title>
+<link>https://www.nytimes.com/2020/10/26/world/europe/belarus-protests-lukashenko.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/europe/belarus-protests-lukashenko.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/europe/belarus-protests-lukashenko.html" rel="standout"/>
+<description>The country’s autocratic ruler, Aleksandr G. Lukashenko, is hanging on. But his fate may be decided in Moscow, where patience is wearing thin.</description>
+<dc:creator>Anton Troianovski</dc:creator>
+<pubDate>Mon, 26 Oct 2020 20:30:42 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tikhanovskaya, Svetlana</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26BELARUS01/26BELARUS01-moth.jpg" width="151"/>
+<media:credit>EPA, via Shutterstock</media:credit>
+<media:description>When they took to the streets in August, many protesters assumed President Aleksandr G. Lukashenko would step down soon. </media:description>
+</item>
+<item>
+<title>Gaza Court Convicts Peace Activists for Video Call With Israelis</title>
+<link>https://www.nytimes.com/2020/10/26/world/middleeast/peace-activists-convicted-gaza.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/middleeast/peace-activists-convicted-gaza.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/middleeast/peace-activists-convicted-gaza.html" rel="standout"/>
+<description>The court ruled that the defendants would not spend more time in jail. Their video call crossed the hard line Hamas takes on many interactions between Palestinians and Israelis.</description>
+<dc:creator>Adam Rasgon</dc:creator>
+<pubDate>Mon, 26 Oct 2020 18:43:58 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/10/world/26gaza-1/10gaza-sub-moth-v2.png" width="151"/>
+<media:description>A screengrab from the video meeting shows Rami Aman, left, who was one of the organizers of the event. Mr. Aman was sentenced to a year in prison.</media:description>
+</item>
+<item>
+<title>U.S. Imposes Sanctions on Iran’s Oil Sector</title>
+<link>https://www.nytimes.com/2020/10/26/world/middleeast/trump-sanctions-iran-oil.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/middleeast/trump-sanctions-iran-oil.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/middleeast/trump-sanctions-iran-oil.html" rel="standout"/>
+<description>The Trump administration is trying to fortify its campaign of maximum pressure against Iran from being reversed by a potential Biden administration.</description>
+<dc:creator>Pranshu Verma and Farnaz Fassihi</dc:creator>
+<pubDate>Mon, 26 Oct 2020 22:45:08 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of Foreign Assets Control (United States Treasury)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mnuchin, Steven T</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/nyregion/26dc-sanctions/26dc-sanctions-moth.jpg" width="151"/>
+<media:credit>Ernesto Vargas/Associated Press</media:credit>
+<media:description>Crew members aboard the Iranian oil tanker Fortune, docked in Venezuela this year. Four people involved in selling Iranian gasoline to the Maduro government were also named.</media:description>
+</item>
+<item>
+<title>With Vacation Rentals Empty, European Cities See a Chance to Reclaim Housing</title>
+<link>https://www.nytimes.com/2020/10/25/world/europe/airbnb-lisbon-housing.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/europe/airbnb-lisbon-housing.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/europe/airbnb-lisbon-housing.html" rel="standout"/>
+<description>Platforms like Airbnb have been criticized for raising living costs in popular cities. Now, officials are trying to move properties aimed at tourists to long-term leases.</description>
+<dc:creator>Raphael Minder and Geneva Abdul</dc:creator>
+<pubDate>Sun, 25 Oct 2020 16:12:50 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lisbon (Portugal)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barcelona (Spain)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Airbnb</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Public and Subsidized Housing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26housing-europe-print1/14housingeurope01-moth.jpg" width="151"/>
+<media:credit>Patricia De Melo Moreira/Agence France-Presse &mdash; Getty Images</media:credit>
+<media:description>A historical district of Lisbon. For years, apartment rentals aimed at tourists have drained the supply of housing in the city.</media:description>
+</item>
+<item>
+<title>Al Qaeda Feels Losses in Syria and Afghanistan but Stays Resilient</title>
+<link>https://www.nytimes.com/2020/10/27/world/middleeast/al-qaeda-afghanistan-syria-somalia.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/middleeast/al-qaeda-afghanistan-syria-somalia.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/middleeast/al-qaeda-afghanistan-syria-somalia.html" rel="standout"/>
+<description>American drones and U.S. allies killed several Qaeda leaders and operatives in the past week. But the organization has “ingrained itself in local communities and conflicts,” according to the U.N.</description>
+<dc:creator>Eric Schmitt</dc:creator>
+<pubDate>Tue, 27 Oct 2020 15:59:38 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Nusra Front</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hurras al-Din</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Khorasan</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Counterterrorism Center</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Directorate of Security (Afghanistan)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shabab</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Special Operations Command</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">bin Laden, Osama</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zawahri, Ayman Al-</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/us/politics/27dc-qaeda/27dc-qaeda-moth.jpg" width="151"/>
+<media:credit>Sayed Mustafa/EPA, via Shutterstock</media:credit>
+<media:description>Afghan security officials at a checkpoint in Ghazni on Monday. Afghan forces say they killed a top Al Qaeda leader in the region last week.</media:description>
+</item>
+<item>
+<title>Judge Dismisses Case Against 47 Men Charged Under Nigeria’s Anti-Gay Law</title>
+<link>https://www.nytimes.com/2020/10/27/world/africa/Nigeria-anti-gay-law.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/world/africa/Nigeria-anti-gay-law.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/world/africa/Nigeria-anti-gay-law.html" rel="standout"/>
+<description>The judge said prosecutors failed to appear in court or call witnesses in the trial, regarded as a test case of the draconian law enacted nearly seven years ago in Africa’s most populous country.</description>
+<dc:creator>Reuters</dc:creator>
+<pubDate>Tue, 27 Oct 2020 15:02:05 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/world/27nigeria/27nigeria-moth.jpg" width="151"/>
+<media:credit>Temilade Adelaja/Reuters</media:credit>
+<media:description>Outside the Federal High Court in Lagos, Nigeria, on Tuesday, where a judge dismissed a case against 47 men accused of public displays of affection with members of same sex.</media:description>
+</item>
+<item>
+<title>The New Supreme Court</title>
+<link>https://www.nytimes.com/2020/10/27/briefing/southern-california-wildfire-amy-coney-barrett-hurricane-zeta.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/27/briefing/southern-california-wildfire-amy-coney-barrett-hurricane-zeta.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/27/briefing/southern-california-wildfire-amy-coney-barrett-hurricane-zeta.html" rel="standout"/>
+<description>And what else you need to know today.</description>
+<dc:creator>David Leonhardt</dc:creator>
+<pubDate>Tue, 27 Oct 2020 10:30:44 +0000</pubDate>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/reader-center/27-the-morning-lede-new/27-the-morning-lede-new-moth.jpg" width="151"/>
+<media:credit>Oliver Contreras for The New York Times</media:credit>
+<media:description>President Trump and Amy Coney Barrett at her swearing-in on the South Lawn of the White House last night.</media:description>
+</item>
+<item>
+<title>Your Tuesday Briefing</title>
+<link>https://www.nytimes.com/2020/10/26/briefing/belarus-protests-amy-coney-barrett-borat.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/briefing/belarus-protests-amy-coney-barrett-borat.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/briefing/belarus-protests-amy-coney-barrett-borat.html" rel="standout"/>
+<description>Amy Coney Barrett is the newest U.S. Supreme Court justice.</description>
+<dc:creator>Natasha Frost</dc:creator>
+<pubDate>Tue, 27 Oct 2020 02:54:19 +0000</pubDate>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/us/politics/27barrett-swear-euro-promo/27barrett-swear-moth.jpg" width="151"/>
+<media:credit>Anna Moneymaker for The New York Times</media:credit>
+</item>
+<item>
+<title>Coronavirus Briefing: What Happened Today</title>
+<link>https://www.nytimes.com/2020/10/26/us/coronavirus-today.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/us/coronavirus-today.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/us/coronavirus-today.html" rel="standout"/>
+<description>Hospitals across the U.S. and Europe are reaching capacity at a rapid pace.</description>
+<dc:creator>Jonathan Wolfe</dc:creator>
+<pubDate>Mon, 26 Oct 2020 22:08:34 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v744.png" width="151"/>
+<media:credit>The New York Times</media:credit>
+</item>
+<item>
+<title>Your Tuesday Briefing</title>
+<link>https://www.nytimes.com/2020/10/26/briefing/ant-group-alipay-ipo-chile-constitution.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/briefing/ant-group-alipay-ipo-chile-constitution.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/briefing/ant-group-alipay-ipo-chile-constitution.html" rel="standout"/>
+<description>The world’s largest I.P.O.</description>
+<dc:creator>Melina Delkic</dc:creator>
+<pubDate>Mon, 26 Oct 2020 20:57:38 +0000</pubDate>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/briefing/27ambriefing-asia-slide-promo/27ambriefing-asia-slide-WFCZ-moth.jpg" width="151"/>
+<media:credit>Roman Pilipey/EPA, via Shutterstock</media:credit>
+</item>
+<item>
+<title>British Commandos Storm Tanker, Ending Standoff in English Channel</title>
+<link>https://www.nytimes.com/2020/10/26/world/europe/uk-tanker-stowaway-hijack.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/europe/uk-tanker-stowaway-hijack.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/europe/uk-tanker-stowaway-hijack.html" rel="standout"/>
+<description>The captain of the ship had reported that a group of stowaways on board was threatening the crew. Ten hours later, special forces brought the standoff to a close.</description>
+<dc:creator>Megan Specia and Isabella Kwai</dc:creator>
+<pubDate>Mon, 26 Oct 2020 16:12:15 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Isle of Wight</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<category domain="">Nave Andromeda</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26britain-tanker-sub/26britain-tanker-sub-moth.jpg" width="151"/>
+<media:credit>Finnbarr Webster/Getty Images</media:credit>
+<media:description>The oil tanker Nave Andromeda in the English port of Southampton on Monday. A day earlier, the crew requested assistance when a group of stowaways onboard threatened violence. </media:description>
+</item>
+<item>
+<title>Russian Airstrikes Kill Dozens of Turkish-Backed Rebels in Syria</title>
+<link>https://www.nytimes.com/2020/10/26/world/middleeast/russia-airstrikes-syria-turkey.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/middleeast/russia-airstrikes-syria-turkey.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/middleeast/russia-airstrikes-syria-turkey.html" rel="standout"/>
+<description>Analysts say the assault, which violated a seven-month truce, could be seen as a warning to Ankara.</description>
+<dc:creator>Hwaida Saad and Carlotta Gall</dc:creator>
+<pubDate>Mon, 26 Oct 2020 14:33:37 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idlib (Syria)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Faylaq al-Sham</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/us/26syria/26syria-moth.jpg" width="151"/>
+<media:credit>Mohammed Al-Rifai/Agence France-Presse — Getty Images</media:credit>
+<media:description>A funeral service in Idlib, Syria, on Monday for 10 fighters from Faylaq al-Sham, the Turkish-backed group targeted in the strikes.</media:description>
+</item>
+<item>
+<title>Arts Bailout in U.K. Buys Time, but No Peace of Mind</title>
+<link>https://www.nytimes.com/2020/10/26/arts/uk-bailout-liverpool.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/arts/uk-bailout-liverpool.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/arts/uk-bailout-liverpool.html" rel="standout"/>
+<description>In Liverpool, England, whose tourist trade is built on culture, more than 40 venues received money from a $2 billion fund. That life support lasts until April.</description>
+<dc:creator>Alex Marshall</dc:creator>
+<pubDate>Mon, 26 Oct 2020 16:16:33 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cavern Club</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Museums Liverpool</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liverpool (England)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hot Water Comedy Club</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walker Art Gallery</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/arts/26liverpool/merlin_178912866_b8afe040-e4bf-4e69-919b-b7fee413d323-moth.jpg" width="151"/>
+<media:credit>Andy Haslam for The New York Times</media:credit>
+<media:description>A public sculpture of the Beatles in Liverpool, England. The Cavern Club, where the band played many early gigs, was among the arts organizations bailed out.</media:description>
+</item>
+<item>
+<title>Europe’s virus numbers look like they did in the spring: high and getting higher.</title>
+<link>https://www.nytimes.com/2020/10/26/world/europes-virus-numbers-look-like-they-did-in-the-spring-high-and-getting-higher.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/europes-virus-numbers-look-like-they-did-in-the-spring-high-and-getting-higher.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/europes-virus-numbers-look-like-they-did-in-the-spring-high-and-getting-higher.html" rel="standout"/>
+<description/>
+<dc:creator>Isabella Kwai, Antonella Francini, Christopher F. Schuetze and Monika Pronczuk</dc:creator>
+<pubDate>Tue, 27 Oct 2020 01:37:28 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26virus-briefing-europe/merlin_178717446_799047a9-b160-4912-9869-4321d7931704-moth.jpg" width="151"/>
+<media:credit>Andrew Testa for The New York Times</media:credit>
+<media:description>In London last week. Britain has recorded more new coronavirus cases in the past week than any other country in Europe.</media:description>
+</item>
+<item>
+<title>Ant Group Set to Raise $34 Billion in World’s Biggest I.P.O.</title>
+<link>https://www.nytimes.com/2020/10/26/technology/ant-group-ipo-valuation.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/technology/ant-group-ipo-valuation.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/technology/ant-group-ipo-valuation.html" rel="standout"/>
+<description>The Alibaba online finance spinoff, which offers people in China a one-stop shop for loans, investments and more, will list shares in Hong Kong and Shanghai.</description>
+<dc:creator>Raymond Zhong</dc:creator>
+<pubDate>Mon, 26 Oct 2020 17:09:20 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alipay</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ant Financial Services Group</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/20/world/00ant-ipo/00ant-ipo-moth.jpg" width="151"/>
+<media:credit>Alex Plavevski/EPA, via Shutterstock</media:credit>
+<media:description>Using Alipay at a market in Hangzhou, China. The more people use Alipay, the more data it gathers about their spending power.</media:description>
+</item>
+<item>
+<title>The Trump Economy</title>
+<link>https://www.nytimes.com/2020/10/26/briefing/coronavirus-chile-world-series.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/briefing/coronavirus-chile-world-series.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/briefing/coronavirus-chile-world-series.html" rel="standout"/>
+<description>And what else you need to know today.</description>
+<dc:creator>David Leonhardt</dc:creator>
+<pubDate>Mon, 26 Oct 2020 22:00:16 +0000</pubDate>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/us/politics/26AMBRIEFING-promo/26AMBRIEFING-promo-moth-v3.jpg" width="151"/>
+<media:credit>Doug Mills/The New York Times</media:credit>
+<media:description>President trump campaigned in Levant, Maine on Sunday.</media:description>
+</item>
+<item>
+<title>Game day in Green Bay: Empty sports bars, full hospitals.</title>
+<link>https://www.nytimes.com/2020/10/26/world/game-day-in-green-bay-empty-sports-bars-full-hospitals.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/game-day-in-green-bay-empty-sports-bars-full-hospitals.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/game-day-in-green-bay-empty-sports-bars-full-hospitals.html" rel="standout"/>
+<description/>
+<dc:creator>Giulia McDonnell Nieto del Rio</dc:creator>
+<pubDate>Mon, 26 Oct 2020 10:30:37 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/us/26virus-briefing-packers/26virus-briefing-packers-moth.jpg" width="151"/>
+<media:credit>Eric Christian Smith/Associated Press</media:credit>
+<media:description>Green Bay Packers fans arriving for the team’s game against the Houston Texans on Sunday.</media:description>
+</item>
+<item>
+<title>Witnessing Peru’s Enduring, if Altered, Snow Star Festival</title>
+<link>https://www.nytimes.com/2020/10/26/travel/qoyllur-riti-snow-star-festival-peru.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/travel/qoyllur-riti-snow-star-festival-peru.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/travel/qoyllur-riti-snow-star-festival-peru.html" rel="standout"/>
+<description>Rising temperatures and melting glaciers have changed key aspects of the age-old Peruvian festival of Qoyllur Rit’i. Still, the celebrations persist.</description>
+<dc:creator>Danielle Villasana</dc:creator>
+<pubDate>Mon, 26 Oct 2020 09:00:33 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andes Mountains</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Incas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuzco (Peru)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/travel/26travel-peru-promo/26travel-peru-promo-moth-v2.jpg" width="151"/>
+<media:credit>Danielle Villasana</media:credit>
+</item>
+<item>
+<title>How the Virus Slowed the Booming Wind Energy Business</title>
+<link>https://www.nytimes.com/2020/10/26/business/energy-environment/coronavirus-renewable-energy-wind.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/business/energy-environment/coronavirus-renewable-energy-wind.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/business/energy-environment/coronavirus-renewable-energy-wind.html" rel="standout"/>
+<description>Renewable energy developers have struggled to finish projects as the pandemic disrupts construction and global supply chains.</description>
+<dc:creator>Ivan Penn and Walker Pickering</dc:creator>
+<pubDate>Mon, 26 Oct 2020 21:22:34 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nebraska</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Electricite de France (EDF)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">EDF Renewables</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milligan (Neb)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/27/business/00wind-farm1a/merlin_173566071_8c13ae9e-1eab-4335-99c8-33c604a8f8b4-moth.jpg" width="151"/>
+<media:description>The coronavirus pandemic has delayed deliveries and disrupted construction of a wind project being built in Nebraska by EDF, a French energy company.</media:description>
+</item>
+<item>
+<title>Infection of Pence aides raises new questions about the administration’s response to the virus.</title>
+<link>https://www.nytimes.com/2020/10/26/world/infection-of-pence-aides-raises-new-questions-about-the-administrations-response-to-the-virus.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/infection-of-pence-aides-raises-new-questions-about-the-administrations-response-to-the-virus.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/infection-of-pence-aides-raises-new-questions-about-the-administrations-response-to-the-virus.html" rel="standout"/>
+<description/>
+<dc:creator>Michael D. Shear, Annie Karni, Maggie Haberman and Sheryl Gay Stolberg</dc:creator>
+<pubDate>Mon, 26 Oct 2020 08:13:13 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/world/26virus-briefing-whitehouse-pence/26virus-briefing-whitehouse-pence-moth.jpg" width="151"/>
+<media:credit>Jonathan Drake/Reuters</media:credit>
+<media:description>Vice President Mike Pence spoke at a rally in Kinston, N.C., on Sunday but did not mention the coronavirus cases that had infiltrated his staff.</media:description>
+</item>
+<item>
+<title>With a little more than a week until Election Day, Trump and Biden make their closing pitches on ‘60 Minutes.’</title>
+<link>https://www.nytimes.com/2020/10/26/world/with-a-little-more-than-a-week-until-election-day-trump-and-biden-make-their-closing-pitches-on-60-minutes.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/26/world/with-a-little-more-than-a-week-until-election-day-trump-and-biden-make-their-closing-pitches-on-60-minutes.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/26/world/with-a-little-more-than-a-week-until-election-day-trump-and-biden-make-their-closing-pitches-on-60-minutes.html" rel="standout"/>
+<description/>
+<dc:creator>Sydney Ember</dc:creator>
+<pubDate>Mon, 26 Oct 2020 09:02:41 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/us/politics/25election-briefing-cbs/25election-briefing-cbs-moth.jpg" width="151"/>
+<media:credit>Doug Mills/The New York Times; Erin Schaff/The New York Times</media:credit>
+<media:description>President Trump and former Vice President Joseph R. Biden Jr. appeared on the news program “60 Minutes” on Sunday.</media:description>
+</item>
+<item>
+<title>Spain, Covid-19, Airbnb: Your Monday Briefing</title>
+<link>https://www.nytimes.com/2020/10/25/briefing/spain-covid-19-airbnb.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/briefing/spain-covid-19-airbnb.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/briefing/spain-covid-19-airbnb.html" rel="standout"/>
+<description>Here’s what you need to know.</description>
+<dc:creator>Natasha Frost</dc:creator>
+<pubDate>Mon, 26 Oct 2020 05:03:25 +0000</pubDate>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/business/26ambriefing-europe-promo/25virus-briefing-spain-moth.jpg" width="151"/>
+<media:credit>Samuel Aranda for The New York Times</media:credit>
+<media:description>An empty square in Barcelona last week. Spain declared a state of emergency and ordered a nationwide curfew to begin on Sunday.</media:description>
+</item>
+<item>
+<title>The Fox News president and several anchors were advised to quarantine after possible virus exposure.</title>
+<link>https://www.nytimes.com/2020/10/25/world/the-fox-news-president-and-several-anchors-were-advised-to-quarantine-after-possible-virus-exposure.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/the-fox-news-president-and-several-anchors-were-advised-to-quarantine-after-possible-virus-exposure.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/the-fox-news-president-and-several-anchors-were-advised-to-quarantine-after-possible-virus-exposure.html" rel="standout"/>
+<description>The president of Fox News and several anchors are quarantining after a positive virus test at the network.</description>
+<dc:creator>Jeremy W. Peters</dc:creator>
+<pubDate>Mon, 26 Oct 2020 01:23:59 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/us/politics/25fox/25fox-moth.jpg" width="151"/>
+<media:credit>Amr Alfiky/The New York Times</media:credit>
+<media:description>A person tested positive for the coronavirus after flying to New York from Nashville with a group of Fox executives and personalities following the presidential debate on Thursday.</media:description>
+</item>
+<item>
+<title>N.Y.C. billboards pair Ivanka Trump and Jared Kushner with damning quotes and statistics.</title>
+<link>https://www.nytimes.com/2020/10/25/world/nyc-billboards-pair-ivanka-trump-and-jared-kushner-with-damning-quotes-and-statistics.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/nyc-billboards-pair-ivanka-trump-and-jared-kushner-with-damning-quotes-and-statistics.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/nyc-billboards-pair-ivanka-trump-and-jared-kushner-with-damning-quotes-and-statistics.html" rel="standout"/>
+<description/>
+<dc:creator>Dana Rubinstein</dc:creator>
+<pubDate>Mon, 26 Oct 2020 08:02:06 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/business/25virus-briefing-ny-billboard/25virus-briefing-ny-billboard-moth.jpg" width="151"/>
+<media:credit>Dave Sanders for The New York Times</media:credit>
+<media:description>The Lincoln Project placed billboards featuring Ivanka Trump and Jared Kushner in Times Square.</media:description>
+</item>
+<item>
+<title>In hot spots around the country, hospitals are reaching their limits.</title>
+<link>https://www.nytimes.com/2020/10/25/world/in-hot-spots-around-the-country-hospitals-are-reaching-their-limits.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/in-hot-spots-around-the-country-hospitals-are-reaching-their-limits.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/in-hot-spots-around-the-country-hospitals-are-reaching-their-limits.html" rel="standout"/>
+<description/>
+<dc:creator>Melina Delkic</dc:creator>
+<pubDate>Mon, 26 Oct 2020 03:06:42 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/business/25virus-briefing-hospital-painpoints/25virus-briefing-hospital-painpoints-moth.jpg" width="151"/>
+<media:credit>Rick Bowmer/Associated Press</media:credit>
+<media:description>Salt Lake County public health nurses at a testing site in Utah on Friday.</media:description>
+</item>
+<item>
+<title>Treaty to Prohibit Nuclear Weapons Passes Important Threshold</title>
+<link>https://www.nytimes.com/2020/10/25/world/americas/nuclear-weapons-prohibition-treaty.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/americas/nuclear-weapons-prohibition-treaty.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/americas/nuclear-weapons-prohibition-treaty.html" rel="standout"/>
+<description>Fifty countries have now ratified the treaty, so it will become international law. The United States and the eight other nuclear-armed powers reject it but have failed to stop its advance.</description>
+<dc:creator>Rick Gladstone</dc:creator>
+<pubDate>Sun, 25 Oct 2020 19:31:45 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Arms Reduction Treaty</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Campaign to Abolish Nuclear Weapons (ICAN)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/world/25nations-nuclear/25nations-nuclear-moth.jpg" width="151"/>
+<media:credit>Don Emmert/Agence France-Presse — Getty Images</media:credit>
+<media:description>António Guterres, the United Nations secretary general, with papers second from right, at the signing of the Treaty on the Prohibition of Nuclear Weapons in 2017.</media:description>
+</item>
+<item>
+<title>Your Monday Briefing</title>
+<link>https://www.nytimes.com/2020/10/25/briefing/china-virus-hongkong-southkorea-us-election.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/briefing/china-virus-hongkong-southkorea-us-election.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/briefing/china-virus-hongkong-southkorea-us-election.html" rel="standout"/>
+<description>China tackles an outbreak in Kashgar.</description>
+<dc:creator>Carole Landry</dc:creator>
+<pubDate>Sun, 25 Oct 2020 20:22:30 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/26/briefing/26ambriefing-asia-promo/26ambriefing-asia-slide-ZYQG-moth.jpg" width="151"/>
+<media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
+</item>
+<item>
+<title>‘An End to the Chapter of Dictatorship’: Chileans Vote to Draft a New Constitution</title>
+<link>https://www.nytimes.com/2020/10/25/world/americas/chile-constitution-plebiscite.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/americas/chile-constitution-plebiscite.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/americas/chile-constitution-plebiscite.html" rel="standout"/>
+<description>Voters overwhelmingly approved a bid to scrap the charter inherited from Gen. Augusto Pinochet’s dictatorship, a move that could set a new course for the country.</description>
+<dc:creator>Pascale Bonnefoy</dc:creator>
+<pubDate>Mon, 26 Oct 2020 04:39:06 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinera, Sebastian</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinochet Ugarte, Augusto</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/world/25chile-1/25chile-1-moth.jpg" width="151"/>
+<media:credit>Martin Bernetti/Agence France-Presse — Getty Images</media:credit>
+<media:description>Voters in Santiago, Chile, cast ballots in a  constitutional referendum on Sunday.</media:description>
+</item>
+<item>
+<title>In coronavirus testing, false positives are more hazardous than they might seem.</title>
+<link>https://www.nytimes.com/2020/10/25/world/in-coronavirus-testing-false-positives-are-more-hazardous-than-they-might-seem.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/in-coronavirus-testing-false-positives-are-more-hazardous-than-they-might-seem.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/in-coronavirus-testing-false-positives-are-more-hazardous-than-they-might-seem.html" rel="standout"/>
+<description/>
+<dc:creator>Katherine J. Wu</dc:creator>
+<pubDate>Sun, 25 Oct 2020 13:30:55 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/us/25virus-briefing-tests2/25virus-briefing-tests2-moth.jpg" width="151"/>
+<media:credit>Joseph Prezioso/Agence France-Presse — Getty Images</media:credit>
+<media:description>A coronavirus test sample taken from a person in Revere, Mass., in August.</media:description>
+</item>
+<item>
+<title>After making a comeback during the pandemic, pro sports face a tough second act.</title>
+<link>https://www.nytimes.com/2020/10/25/world/after-making-a-comeback-during-the-pandemic-pro-sports-face-a-tough-second-act.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/world/after-making-a-comeback-during-the-pandemic-pro-sports-face-a-tough-second-act.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/world/after-making-a-comeback-during-the-pandemic-pro-sports-face-a-tough-second-act.html" rel="standout"/>
+<description/>
+<dc:creator>Tyler Kepner, Matthew Futterman and Marc Stein</dc:creator>
+<pubDate>Sun, 25 Oct 2020 13:30:55 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/business/25virus-briefing-sportsleagues-sub/25virus-briefing-sportsleagues-sub-moth.jpg" width="151"/>
+<media:credit>David J. Phillip/Associated Press</media:credit>
+<media:description>Brett Phillips made the game-winning hit for the Tampa Bay Rays off a pitch by Kenley Jansen of the Los Angeles Dodgers in Game 4 of the World Series in Arlington, Texas.</media:description>
+</item>
+<item>
+<title>Pope Francis Appoints First African-American Cardinal</title>
+<link>https://www.nytimes.com/2020/10/25/us/pope-francis-cardinal-gregory.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/25/us/pope-francis-cardinal-gregory.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/25/us/pope-francis-cardinal-gregory.html" rel="standout"/>
+<description>Wilton Gregory, the archbishop of Washington, was among 13 new cardinals named on Sunday.</description>
+<dc:creator>Elizabeth Dias and Jason Horowitz</dc:creator>
+<pubDate>Sun, 25 Oct 2020 23:47:08 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gregory, Wilton D</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Cardinals (Roman Catholic Prelates)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/25/world/25cardinal-add1/25cardinal-add1-moth.jpg" width="151"/>
+<media:credit>Jose Luis Magana/Associated Press</media:credit>
+<media:description>Archbishop Wilton Gregory, center, leaving Mass last year at the Cathedral of St. Matthew the Apostle in Washington.</media:description>
+</item>
+<item>
+<title>Pence’s chief of staff and several other aides test positive for the virus.</title>
+<link>https://www.nytimes.com/2020/10/24/world/pences-chief-of-staff-and-several-other-aides-test-positive-for-the-virus.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/pences-chief-of-staff-and-several-other-aides-test-positive-for-the-virus.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/pences-chief-of-staff-and-several-other-aides-test-positive-for-the-virus.html" rel="standout"/>
+<description/>
+<dc:creator>Maggie Haberman</dc:creator>
+<pubDate>Sun, 25 Oct 2020 14:43:38 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/us/24virus-briefing-marc/24virus-briefing-marc-moth.jpg" width="151"/>
+<media:credit>Doug Mills/The New York Times</media:credit>
+<media:description>The vice president’s chief of staff, Marc Short, is one of at least four staff members who have tested positive for the coronavirus recently.</media:description>
+</item>
+<item>
+<title>As Lawlessness Roils Nigeria, Police Chief Vows to Take Back Streets</title>
+<link>https://www.nytimes.com/2020/10/24/world/africa/Nigeria-protests.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/africa/Nigeria-protests.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/africa/Nigeria-protests.html" rel="standout"/>
+<description>As protests against police brutality have subsided after a violent crackdown, they have been followed by a wave of looting and vandalism that the police have vowed to end.</description>
+<dc:creator>Shola Lawal</dc:creator>
+<pubDate>Sat, 24 Oct 2020 22:53:31 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lagos (Nigeria)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/world/24nigeria/24nigeria-moth.jpg" width="151"/>
+<media:credit>Akintunde Akinleye/EPA, via Shutterstock</media:credit>
+<media:description>The remains of a police station in Lagos on Saturday, following weeks of street protests against police brutality.</media:description>
+</item>
+<item>
+<title>Venezuela Opposition Figure, Long Confined, Flees to Spain</title>
+<link>https://www.nytimes.com/2020/10/24/world/americas/venezuela-opposition-leader-escapes.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/americas/venezuela-opposition-leader-escapes.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/americas/venezuela-opposition-leader-escapes.html" rel="standout"/>
+<description>Leopoldo López had spent the past six years in jail, house arrest and diplomatic asylum. He fled on Saturday, joining his family in Spain.</description>
+<dc:creator>Anatoly Kurmanaev and Raphael Minder</dc:creator>
+<pubDate>Sun, 25 Oct 2020 17:25:11 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez, Leopoldo</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/world/24venezuela/24venezuela-moth.jpg" width="151"/>
+<media:credit>Manaure Quintero/Reuters</media:credit>
+<media:description>Leopoldo Lopez in Caracas last year. The Venezuelan opposition leader left the country on Saturday.</media:description>
+</item>
+<item>
+<title>Turning 100, a Former Spanish Soldier Laments the Curse of His Birth Year</title>
+<link>https://www.nytimes.com/2020/10/24/world/europe/spain-civil-war-baby-bottlers.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/europe/spain-civil-war-baby-bottlers.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/europe/spain-civil-war-baby-bottlers.html" rel="standout"/>
+<description>Andreu Canet is one of the last survivors of the “baby bottle conscription.” Born in 1920, they were drafted as teenagers in an ill-fated bid to stop Franco from winning Spain’s civil war.</description>
+<dc:creator>Raphael Minder</dc:creator>
+<pubDate>Sat, 24 Oct 2020 17:55:47 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Spanish Civil War (1936-39)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Canet, Andreu (1920- )</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/22/world/00spain-war1/merlin_178252233_f0939ca2-f6d8-4ec5-a3d6-06be0d2dd7bf-moth.jpg" width="151"/>
+<media:credit>Samuel Aranda for The New York Times</media:credit>
+<media:description>Andreu Canet, standing, looking at old photos with his son Andreu.</media:description>
+</item>
+<item>
+<title>In South Korea, Draft Resisters Still Go to Prison. But Now It’s a Job.</title>
+<link>https://www.nytimes.com/2020/10/24/world/asia/south-korea-draft-conscientious-objectors.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/asia/south-korea-draft-conscientious-objectors.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/asia/south-korea-draft-conscientious-objectors.html" rel="standout"/>
+<description>A court ruled that conscientious objectors must be allowed to serve their country in other ways. The government says they’ll still have to do so behind prison walls.</description>
+<dc:creator>Choe Sang-Hun</dc:creator>
+<pubDate>Sat, 24 Oct 2020 15:43:59 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Conscientious Objectors</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jehovah's Witnesses</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/20/world/00skorea-objectors-1/00skorea-objectors-1-moth.jpg" width="151"/>
+<media:credit>Kim Jun-Beom/Yonhap, via Associated Press</media:credit>
+<media:description>South Korean conscripts in April. Mandatory military service is seen as a rite of passage for able-bodied men in South Korea.</media:description>
+</item>
+<item>
+<title>As China Clamps Down, Activists Flee Hong Kong for Refuge in the West</title>
+<link>https://www.nytimes.com/2020/10/24/world/asia/hong-kong-asylum-seekers.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/asia/hong-kong-asylum-seekers.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/asia/hong-kong-asylum-seekers.html" rel="standout"/>
+<description>China calls them “violent criminals.” Asylum seekers from Hong Kong are the latest catalyst for deteriorating relations between Beijing and Western countries.</description>
+<dc:creator>Austin Ramzy and Maria Abi-Habib</dc:creator>
+<pubDate>Tue, 27 Oct 2020 14:08:47 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cheng, Simon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/21/world/00hongkong-asylum-1/00hongkong-asylum-1-moth.jpg" width="151"/>
+<media:credit>Lam Yik Fei for The New York Times</media:credit>
+<media:description>For decades, Hong Kong had been a place of shelter for people escaping war, famine and political oppression in mainland China. Now some protesters from Hong Kong have sought and been granted asylum abroad.</media:description>
+</item>
+<item>
+<title>Deadly Explosion Hits Kabul Tutoring Center</title>
+<link>https://www.nytimes.com/2020/10/24/world/asia/kabul-afghanistan-bombing-school.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/asia/kabul-afghanistan-bombing-school.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/asia/kabul-afghanistan-bombing-school.html" rel="standout"/>
+<description>At least 24 people were killed and 57 wounded in latest attack, which happened as peace talks are at an impasse and as violence rises across Afghanistan.</description>
+<dc:creator>Mujib Mashal and Najim Rahim</dc:creator>
+<pubDate>Tue, 27 Oct 2020 14:29:05 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/world/24afghanistan-1/24afghanistan-1-moth.jpg" width="151"/>
+<media:credit>Agence France-Presse — Getty Images</media:credit>
+<media:description>Residents in Kabul gathered near the site of an attack on an education center on Saturday.</media:description>
+</item>
+<item>
+<title>At Least 6 Children Killed in Attack on School in Cameroon</title>
+<link>https://www.nytimes.com/2020/10/24/world/africa/cameroonian-school-killing.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/africa/cameroonian-school-killing.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/africa/cameroonian-school-killing.html" rel="standout"/>
+<description>The officials blamed the attack on secessionist insurgents who are seeking to form a breakaway state in Cameroon’s English-speaking west.</description>
+<dc:creator>Reuters</dc:creator>
+<pubDate>Sat, 24 Oct 2020 15:51:41 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cameroon</category>
+</item>
+<item>
+<title>Indigenous Colombians, Facing New Wave of Brutality, Demand Government Action</title>
+<link>https://www.nytimes.com/2020/10/24/world/americas/colombia-violence-indigenous-protest.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/americas/colombia-violence-indigenous-protest.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/americas/colombia-violence-indigenous-protest.html" rel="standout"/>
+<description>“If we don’t stand before the world and say, ‘This is happening,’ we will be exterminated,” a protest leader said. After a long civil war, a new type of violence is sweeping Indigenous communities.</description>
+<dc:creator>Julie Turkewitz and Sofía Villamil</dc:creator>
+<pubDate>Sat, 24 Oct 2020 13:50:58 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duque, Ivan</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bogota (Colombia)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/world/24colombia-indigenous-add1/24colombia-indigenous-add1-moth.jpg" width="151"/>
+<media:credit>Federico Rios for The New York Times</media:credit>
+<media:description>Protesters pooled their salaries to rent colorful vehicles called “chivas.”</media:description>
+</item>
+<item>
+<title>President Andrzej Duda of Poland Tests Positive for Coronavirus</title>
+<link>https://www.nytimes.com/2020/10/24/world/europe/covid-poland-president-duda.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/europe/covid-poland-president-duda.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/europe/covid-poland-president-duda.html" rel="standout"/>
+<description>A spokesman said the head of state was feeling well despite a positive test result. A second political leader is also in isolation after he came in contact with an infected person.</description>
+<dc:creator>Monika Pronczuk and Tess Felder</dc:creator>
+<pubDate>Tue, 27 Oct 2020 13:31:54 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duda, Andrzej (1972- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/world/24virus-poland/24virus-poland-moth.jpg" width="151"/>
+<media:credit>Agencja Gazeta/Reuters</media:credit>
+<media:description>President Andrzej Duda of Poland, second from left, in Warsaw last month.</media:description>
+</item>
+<item>
+<title>Bangkok Is Engulfed by Protests. What’s Driving Them?</title>
+<link>https://www.nytimes.com/2020/10/24/world/asia/thailand-protests-explainer.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/asia/thailand-protests-explainer.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/asia/thailand-protests-explainer.html" rel="standout"/>
+<description>Rebellious youths. A history of coups. A royal family protected by laws that can punish critics. All are key ingredients in the struggle convulsing Thailand.</description>
+<dc:creator>Richard C. Paddock and Emmett Lindner</dc:creator>
+<pubDate>Sat, 24 Oct 2020 05:02:09 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D'Etat and Attempted Coups D'Etat</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/world/24THAILAND-EXPLAINER01/24THAILAND-EXPLAINER01-moth.jpg" width="151"/>
+<media:credit>Adam Dean for The New York Times</media:credit>
+<media:description>Protesters in Bangkok have been rallying for weeks to demand democratic change in Thailand.</media:description>
+</item>
+<item>
+<title>A resurgent virus attacks the heartland, just before the election.</title>
+<link>https://www.nytimes.com/2020/10/24/world/a-resurgent-virus-attacks-the-heartland-just-before-the-election.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/24/world/a-resurgent-virus-attacks-the-heartland-just-before-the-election.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/24/world/a-resurgent-virus-attacks-the-heartland-just-before-the-election.html" rel="standout"/>
+<description/>
+<dc:creator>Eileen Sullivan, Albert Sun, Sarah Mervosh and Rebecca Halleck</dc:creator>
+<pubDate>Mon, 26 Oct 2020 21:18:12 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/us/24virus-briefing-record2/merlin_178956543_7b911ad5-0186-4e53-ab31-4d31bf107a0a-moth.jpg" width="151"/>
+<media:credit>Elaine Thompson/Associated Press</media:credit>
+<media:description>A Seattle firefighter at a drive-in testing site on Friday.</media:description>
+</item>
+<item>
+<title>Oil Industry Expresses Concern, Not Alarm, About Biden Comments</title>
+<link>https://www.nytimes.com/2020/10/23/business/energy-environment/joe-biden-oil-debate-reaction.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/23/business/energy-environment/joe-biden-oil-debate-reaction.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/23/business/energy-environment/joe-biden-oil-debate-reaction.html" rel="standout"/>
+<description>After the candidate called for a “transition” away from oil and gas, executives said the country would need fossil fuels for decades to come.</description>
+<dc:creator>Clifford Krauss</dc:creator>
+<pubDate>Fri, 23 Oct 2020 19:16:17 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Shale</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/24/us/24debate-oil-print1/23debate-oil-moth.jpg" width="151"/>
+<media:credit>Brandon Thibodeaux for The New York Times</media:credit>
+<media:description>A day after Joseph R. Biden Jr. called for a transition away from oil and natural gas, industry executives said the country would need its products for decades to come.</media:description>
+</item>
+<item>
+<title>Trump Announces Sudan Will Move to Normalize Relations With Israel</title>
+<link>https://www.nytimes.com/2020/10/23/world/middleeast/sudan-israel-trump-terrorism.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/23/world/middleeast/sudan-israel-trump-terrorism.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/23/world/middleeast/sudan-israel-trump-terrorism.html" rel="standout"/>
+<description>But the deal appears to fall short of full diplomatic ties, since there was no mention of opening embassies in the others’ capitals, as Israel is planning to do with the United Arab Emirates and Bahrain.</description>
+<dc:creator>Lara Jakes, Declan Walsh and Adam Rasgon</dc:creator>
+<pubDate>Fri, 23 Oct 2020 23:01:31 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arab League</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/23/us/politics/23dc-sudan-sub/23dc-sudan-sub-moth.jpg" width="151"/>
+<media:credit>Stefani Reynolds for The New York Times</media:credit>
+</item>
+<item>
+<title>Trump continues to take swipes at pandemic-stricken New York.</title>
+<link>https://www.nytimes.com/2020/10/23/world/trump-continues-to-take-swipes-at-pandemic-stricken-new-york.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/23/world/trump-continues-to-take-swipes-at-pandemic-stricken-new-york.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/23/world/trump-continues-to-take-swipes-at-pandemic-stricken-new-york.html" rel="standout"/>
+<description/>
+<dc:creator>Emma G. Fitzsimmons and Maggie Haberman</dc:creator>
+<pubDate>Fri, 23 Oct 2020 23:45:48 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/22/nyregion/00nyc-trump3/merlin_145482096_e38cff80-9ceb-4af9-804e-d28f4787f298-moth.jpg" width="151"/>
+<media:credit>Chang W. Lee/The New York Times</media:credit>
+<media:description>The president’s unpopularity in New York City led to his surname being stripped from some building exteriors.</media:description>
+</item>
+<item>
+<title>A Francophile’s Unexpected Love Affair With Canadian Wine</title>
+<link>https://www.nytimes.com/2020/10/23/world/canada/canadian-wine-british-columbia.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/23/world/canada/canadian-wine-british-columbia.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/23/world/canada/canadian-wine-british-columbia.html" rel="standout"/>
+<description>Our Montreal-based Canada correspondent, Dan Bilefsky, was seduced by British Columbia’s picturesque wine region. There was just one problem: Finding the wine back home.</description>
+<dc:creator>Dan Bilefsky</dc:creator>
+<pubDate>Fri, 23 Oct 2020 16:48:18 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/23/world/23canada-letter-1/23canada-letter-1-moth.jpg" width="151"/>
+<media:credit>Jen Osborne for The New York Times</media:credit>
+<media:description>The gasp-worthy view enhanced a wine tasting at Laughing Stock Vineyards in British Columbia’s Okanagan Valley.</media:description>
+</item>
+<item>
+<title>Covid-19 Deaths: The Price for Not Wearing Masks is Perhaps 130,000 Lives</title>
+<link>https://www.nytimes.com/2020/10/23/health/covid-deaths.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/23/health/covid-deaths.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/23/health/covid-deaths.html" rel="standout"/>
+<description>The pandemic death toll could be lowered by next spring if more Americans wear masks, a new analysis finds.</description>
+<dc:creator>Apoorva Mandavilli</dc:creator>
+<pubDate>Tue, 27 Oct 2020 09:06:26 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institute for Health Metrics and Evaluation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Medicine (Journal)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/23/science/23VIRUS-DEATHS1/23VIRUS-MASKS1-moth.jpg" width="151"/>
+<media:credit>Brendan Mcdermid/Reuters</media:credit>
+<media:description>“Increasing mask use is one of the best strategies that we have right now to delay the imposition of social distancing mandates and all the economic effects of that, and save lives,” said one expert.</media:description>
+</item>
+<item>
+<title>How Bolivia Overcame a Crisis and Held a Clean Election</title>
+<link>https://www.nytimes.com/2020/10/23/world/americas/boliva-election-result.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/23/world/americas/boliva-election-result.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/23/world/americas/boliva-election-result.html" rel="standout"/>
+<description>A presidential race that many feared would end in uncertainty or violence concluded quietly, allowing Bolivians to hope that a year of turmoil and threats to democracy may be behind them.</description>
+<dc:creator>Julie Turkewitz</dc:creator>
+<pubDate>Fri, 23 Oct 2020 15:39:17 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arce, Luis</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anez Chavez, Jeanine</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mesa, Carlos</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bolivia</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/22/world/22bolivia-hp/22bolivia-hp-moth-v3.jpg" width="151"/>
+<media:credit>Tyler Hicks/The New York Times</media:credit>
+<media:description>Luis Arce, the handpicked candidate of the former president, Evo Morales, will be the next president of Bolivia.</media:description>
+</item>
+<item>
+<title>U.S. Embassy in Turkey Issues Security Alert and Suspends Services</title>
+<link>https://www.nytimes.com/2020/10/23/world/europe/turkey-us-embassy-terrorism-alert.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2020/10/23/world/europe/turkey-us-embassy-terrorism-alert.html</guid>
+<atom:link href="https://www.nytimes.com/2020/10/23/world/europe/turkey-us-embassy-terrorism-alert.html" rel="standout"/>
+<description>The embassy said it had received “credible reports” of potential attacks and kidnappings aimed at Americans and other foreign nationals in Istanbul.</description>
+<dc:creator>The Associated Press</dc:creator>
+<pubDate>Fri, 23 Oct 2020 13:56:43 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/23/world/23TURKEY01/23TURKEY01-moth.jpg" width="151"/>
+<media:credit>Emrah Gurel/Associated Press</media:credit>
+<media:description>At the Hagia Sophia in Istanbul. The U.S. Embassy urged American citizens to exercise caution at malls, office buildings and other sites where foreigners gather. </media:description>
+</item>
+</channel>
+</rss>
