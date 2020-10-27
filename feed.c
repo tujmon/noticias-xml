@@ -1,4 +1,5 @@
 #include "feed.h"
+
 void findTag(FILE *fp, char tag[20])
 {
     int i = 0;
