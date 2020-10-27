@@ -29,7 +29,7 @@ int main(void)
     char tag[20] = "";
     int encontrouTag = 0;
 
-    fp = fopen("news.xml", "r");
+    fp = fopen("./news.xml", "r");
 
     if (fp == NULL)
     {
