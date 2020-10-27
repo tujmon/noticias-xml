@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" ?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:steam="http://www.steampowered.com" xmlns="http://purl.org/rss/1.0/">
+	<channel rdf:about="http://www.steampowered.com">
+		<title>Steam RSS News Feed</title> 
+		<link>http://www.steampowered.com/</link> 
+		<description>All Steam news, all the time!</description> 
+		<language>en</language> 
+				<pubDate>Fri, 23 Oct 2020 19:00:00 -0700</pubDate>
+		<generator>http://www.steampowered.com/</generator> 
+		<items>
+			<rdf:Seq>
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76967/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76885/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76818/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76713/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76709/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76577/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76583/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76505/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76499/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76442/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76348/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76303/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76246/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76163/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76161/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76155/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/76112/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/75976/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/75935/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/75925/" />
+						</rdf:Seq>
+		</items>
+	</channel>
+					<item rdf:about="https://store.steampowered.com/news/76967/">
+			<title><![CDATA[Steam Client Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76967/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76967/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 23 Oct 2020 19:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-23T19:00:00-0700</dc:date>
+						<content:encoded><![CDATA[A new Steam client has been released and will be automatically downloaded.<br><br><strong>General</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed remote code exploit in Chromium Embedded Framework freetype library (CVE-2020-15999)</li><br></ul><br><strong>Remote Play Together</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed inviting more than one player to a game</li><br></ul><br><strong>Steam Input</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Improved support for games using Windows raw input APIs<br>Unity games using the Rewired plugin should upgrade to the latest release, version 1.1.36.1.</li><br></ul><br><strong>Linux</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed Proton 5.13 on systems that do not define XDG_RUNTIME_DIR (steam-runtime#284)</li><br><li>Fixed Proton 5.13 'Force Exit'</li><br><li>Fixed Proton 5.13 sub-dependencies download bug happening on first install</li><br><li>soldier runtime 0.20201022.0:</li><br><li>Fixed libtheora performance problem (misconfiguration)</li><br><li>libcapsule: fixed start failures caused by leftover NVIDIA driver pieces (steam-runtime#282 steam-runtime#275)</li><br><li>steam-runtime-tools: pick the correct DISPLAY and XAUTHORITY, fixes Gnome+Wayland and related problems (steam-runtime#283)</li><br><li>scout runtime 0.20201022.1</li><br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76885/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76885/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76885/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 22 Oct 2020 10:25:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-22T10:25:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Fixed a long-standing ragdoll crash, caused by stale bone data after toggling addons that override common infected models.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76818/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76818/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76818/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 21 Oct 2020 11:26:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-21T11:26:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Fixed a crash when decoding bones.<br>- Fixed a mesh error when drawing the crosshair with colorblind mode active.<br>- Fixed a double-add of the client shadow manager restore function.<br>- Fixed mode-only addons sometimes getting removed on map load.<br>- Fixed some military sniper activity names.<br>- Changed crowbar and pitchfork to slash damage only.<br>- "AllowFallenSurvivorItem" can be called outside of mutations.<br>- Talker and survival updates.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76713/">
+			<title><![CDATA[Steam Client Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76713/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76713/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 19 Oct 2020 13:30:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-19T13:30:00-0700</dc:date>
+						<content:encoded><![CDATA[A new Steam client has been released and will be automatically downloaded.<br><br><strong>General</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fix videos failing to switch to fullscreen on Windows after a monitor connection/disconnection</li><br></ul><br><strong>macOS</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fix Steam overlay causing crash at startup of certain OpenGL games</li><br></ul><br><strong>SteamNetworkingSockets</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed bug causing SteamNetworkingMessages() to always return NULL</li><br><li>Fix bug causing some Windows laptops to fail to connect with certificate errors.</li><br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76709/">
+			<title><![CDATA[Now Available on Steam - Kine, 34% off!]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76709/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76709/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 19 Oct 2020 11:00:37 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-19T11:00:37-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/824570/'>Kine</a> is Now Available on Steam and is 34% off!*<br><br>A quirky 3D puzzle game about three musicians forming a band and trying to score their breakout hit.<br><br>*Offer ends October 26 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/824570/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/824570/header.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76577/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76577/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76577/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 15 Oct 2020 10:08:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-15T10:08:00-0700</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Updated the Jupiter Jetpack to not hide the Pyro grenades<br><li>Updated The Great Deflate achievement to include the Balloonicorpse<br><li>Updated pl_hasslecastle<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed more out-of-bounds exploits<br><li>Improved clipping<br><li>General improvements</ul><li>Updated koth_undergrove_event<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>3v3 participants will now be healed and extinguished upon entering a 3v3 portal, in addition to when the 3v3 begins and ends<br><li>Reduced the delay after winning a 3v3 before players are teleported back to the overworld<br><li>Fixed Wrap Assassin/Pomson 6000 projectiles not firing correctly in the indoor areas<br><li>Polished clipping around the capture point<br><li>Polished some textures on RED's side<br><li>Fixed several console errors that appeared upon map load<br><li>Minor lighting fixes</ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76583/">
+			<title><![CDATA[Now Available on Steam - Noita, 20% off!]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76583/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76583/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 15 Oct 2020 10:03:09 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-15T10:03:09-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/881100/'>Noita</a> is Now Available on Steam and is 20% off!*<br><br><strong>Noita</strong> is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself.<br><br>*Offer ends October 22 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/881100/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/881100/header.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76505/">
+			<title><![CDATA[Dota 2 Update - October 14th, 2020]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76505/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76505/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 14 Oct 2020 17:34:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-14T17:34:00-0700</dc:date>
+						<content:encoded><![CDATA[- Fixed some notifications appearing on top of the in-game item shop<br>- Added 15 min delay option for DotaTV for tournament games so community streams can broadcast without delay on their end.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76499/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76499/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76499/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 14 Oct 2020 13:14:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-14T13:14:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>Last Stand:<br>- Fixed ammo pile in Junkyard not spawning on second round of Versus.<br>- Fixed exploit where the trigger used to quiet the Director could be activated after the finale started.<br><br>Survival:<br>- Fixed an issue where Fallen Survivors could still drop medkits on Riverbank.<br>- Fixed issue where several weapon spawners would absorb dropped weapons on Barge.<br><br>Tank Run:<br>- Fixed an issue in Scavenge finales that prevented the escape vehicle from working.<br>- The Sacrifice finale will now spawn Tanks properly and the bridge will lower when the timer reaches 0.<br><br>RocketDude:<br>- Fixed players ending up with no viewmodel and no avatar by rejoining a game where any survivor already left the safe room.<br>- Added support for custom playground maps ( a guide will provided by ReneTM ).<br>- Fixed players not instantly dying when jumping into c14m1 safe room water area.<br>- Fixed players not instantly dying when jumping into c14m2 finale water.<br>- Lowered slow motion probability from 10% to 5% as requested by many players.<br>- Fixed RocketDude decals sometimes not showing up.<br>- Fixed new best times not saving.<br>- Added Start and finish textures.<br><br>Other:<br>- Updated several Mutations to fix the issue where the weapons in Whitaker's Gun Store weren't being removed or converted.<br>- Fixed tanks failing to spawn in versus on No Mercy 3 (at 90+% boss flow).<br>- Fixed tanks spawning before the finale on No Mercy 5.<br>- Fixed a few stuck Special Infected issues on survival maps.<br>- Fixed setting the input mode to joystick/Steam Input.<br>- Increased command limit before causing a disconnect.<br>- Fixed some reported model crashes.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76442/">
+			<title><![CDATA[Dota 2 Update - October 13th, 2020]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76442/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76442/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 13 Oct 2020 11:32:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-13T11:32:00-0700</dc:date>
+						<content:encoded><![CDATA[- Fixed a bug that could cause cast-attack spells to malfunction (like Silencer&rsquo;s  Glaives of Wisdom)<br>- Fixed the limit behavior of Templar Assassin&rsquo;s traps. There was a short period where a triggered trap continued to count against the trap limit.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76348/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76348/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76348/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 09 Oct 2020 13:31:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-09T13:31:00-0700</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Updated koth_viaduct_event<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed Engineers building teleporters in the spawn rooms</ul><li>Updated pl_precipice_event_final<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed missing models</ul><li>Updated pl_bloodwater<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Removed an unintended clip brush passing through a BLU spawn wall<br><li>Added occluders</ul><li>Updated pl_hasslecastle<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed BLU players spawning in the wrong spawn room<br><li>Fixed Engineers building teleporters the first BLU spawn room<br><li>General improvements</ul><li>Updated pl_rumble_event<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed Merasmus uttering round start voice lines randomly during mid round<br><li>Fixed some misaligned textures<br><li>Fixed a tree from hovering in underworld<br><li>Fixed few models fading too late or too soon<br><li>Fixed clock sometimes triggering underworld entrances during bumper kart race<br><li>Fixed Merasmus from spawning if the race was already over<br><li>Fixed push trigger in underworld being too low<br><li>Improved clipping around the map</ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76303/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76303/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76303/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 08 Oct 2020 11:51:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-08T11:51:00-0700</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed players not being able to rocket jump or stickybomb jump during a truce<br><li>Fixed missing War Paint icons in the Steam Community Market<br><li>Updated the Impish Ears to add a missing style<br><li>Updated the equip_region for the Gourd Grin<br><li>Updated The Ghoul Box to fix an issue with the materials<br><li>Updated pl_hasslecastle<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Added occluders to improve optimization<br><li>Added a spell book near the first RED spawn and the first BLU spawn<br><li>Brightened up some areas<br><li>Fixed some texture misalignments<br><li>Reduced the saturation of purple spell book patches<br><li>Changed the ending when BLU wins<br><li>Fixed the arrow signs not changing near the first RED spawn<br><li>Fixed an out-of-bounds exploit near the first point<br><li>Fixed an out-of-bounds exploit in the second BLU spawn<br><li>Fixed an out-of-bounds exploit near the cliff at the second-to-last point<br><li>Changed the doors in the second BLU and the first RED spawn rooms to standard ones<br><li>Fixed a displacement error near the entrance to the last point<br><li>Moved the resupply cabinet from the second BLU spawn out of the wall<br><li>Updated the "Kill with a pumpkin bomb" bonus objective to be "Win a round"<br><li>Fixed some texture errors<br><li>Brightened up the map<br><li>General improvements</ul><li>Updated pl_precipice_event_final<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Lowered amount of entities on the map to prevent crashing <br><li>Adjusted some misaligned textures around the map <br><li>Simplified some detail for better performance <br><li>Combined some models for better performance <br><li>Removed some clutter to improve readability and fluid movement <br><li>Fixed some lighting bugs around the map<br><li>Added a one way door to left flank on last CP for Blu<br><li>Removed build limitations on both Shack (CP1) and the isolated balcony (final CP)<br><li>Adjusted health kits in last to be less favorable to defense</ul><li>Updated koth_megalo<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed players building teleporters in RED spawn</ul><li>Updated pl_bloodwater<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed exploit using the Minify spell at point A<br><li>Fixed being able to build as an Engineer in lava pits<br><li>Bosses no longer get stuck in lava pits<br><li>Reduced the chance of the Horseless Headless Horsemann and Monoculus spawning<br><li>Updated all railings to not collide with projectiles and bullets<br><li>Removed normal-sized skeleton spawn locations</ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76246/">
+			<title><![CDATA[Steam Client Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76246/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76246/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 07 Oct 2020 17:55:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-07T17:55:00-0700</dc:date>
+						<content:encoded><![CDATA[A new Steam client has been released and will be automatically downloaded.<br><br><strong>General</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed the Steam Client window starting minimized when the client is run after first install on a Windows machine</li><br></ul><br><strong>Library</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Improved the alignment of controls in the play bar on game pages</li><br><li>Fixed one instance where achievement unlock percentage was not shown on game pages</li><br><li>Added Edit Review button to personal review on game pages</li><br><li>Changed the context menu when viewing screenshots to browse to file if the screenshot exists locally</li><br></ul><br><strong>Chat Filtering</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Steam and games which leverage the Steam Text Filtering API now filter strong profanity and slurs shared by users you don't know, replacing them with hearts and asterisks. You can enable their display in the <a href="https://store.steampowered.com/account/preferences#CommunityContentPreferences">Community Content Preferences</a>, where you can also customize what words are filtered, and whether to filter messages from Steam Friends. For more background on these features, read our <a href="https://steamcommunity.com/games/593110/partnerevents/view/2855803154584367415">blog post</a>.</li><br></ul><br><strong>Downloads</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Changed download throttling setting to be a custom value in Kbps</li><br></ul><br><strong>SteamNetworkingSockets</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed a crash bug if app shutdown exited very soon after starting, while SDR network configuration fetch in progress</li><br><li>Fixed bug with certificates expiring on long running processes such as dedicated servers</li><br></ul><br><strong>Steam Overlay</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed a crash when switching between Direct3D 11 and 12 or vice versa in Serious Sam 4</li><br><li>Fixed macOS crash when certain Metal framework API's are used by game</li><br></ul><br><strong>Steamworks SDK</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed some Javascript key fields not being set correctly by ISteamHTMLSurface</li><br></ul><br><strong>Linux</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Scout steam runtime v0.20200910.0</li><br><li>Various correctness improvements to the runtime information tool (Help > System Information)</li><br><li>Fixes to DNS resolution in container runtime mode</li><br><li>Many improvements to robustness and shared directories when running in container runtime mode</li><br></ul><br><strong>Windows</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Avoid a crash or GPU reset hitting some Windows 8/8.1 users with certain GPU drivers when Vulkan shader cache tries to query support</li><br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76163/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76163/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76163/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 02 Oct 2020 17:34:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-02T17:34:00-0700</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Updated the Handsome Devil to fix an issue with the model<br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76161/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76161/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76161/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 02 Oct 2020 16:33:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-02T16:33:00-0700</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Updated the timing of the Static Shock and Veno Shock unusual effects<br><li>Updated the Seared Sorcerer to add a missing style<br><li>Updated the Eye-See-You to add a missing style<br><li>Updated the Handsome Devil to fix an issue with the materials<br><li>Updated/Added some tournament medals<br><li>Updated the localization files<br><li>Updated koth_megalo<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed minor out of bounds teleporter exploit<br><li>Added pumpkin bombs</ul><li>Updated pl_bloodwater<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed misaligned textures<br><li>Sealed displacement hole to the skybox near BLU spawn<br><li>Brightened up point A<br><li>Brightened up ambient lighting<br><li>Fixed pumpkin bombs not spawning at point C and D<br><li>Brightened up lighting behind point B</ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76155/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76155/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76155/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 02 Oct 2020 09:47:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-02T09:47:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Fixed "New Haircut" achievement to not allow club-type melee weapons.<br>- Additional prevention of getting disconnected when spamming the scroll wheel.<br>- In Survival mode, if a special infected reports as stuck for more than two minutes it will suicide.<br>- Compiled captions and subtitles from dlc1.<br>- Fixed a couple instances where tank could spawn outside the warp check zone (but was intended to be warped)<br>- Added nav in ground in outer areas so that throwing a bile out there doesn't cause infected to just stand around.<br>- Blood Harvest 2 Warehouse Survival: shortened a nav blocker next to some stairs.<br>- Check for Realism in addition to Coop base mode for all exploit fixes to prevent some shortcut fixes from spawning in Realism Coop.<br>- Moved 64 exploit blocks to Versus-only, most notably Dark Carnival 3 Coaster, Parish 5 Bridge and Dead Air 2 Crane.<br><br>Rocket Dude:<br>- removed PlayerUnderWater()<br>- added Speedrunner stats ( local use only )<br>- improved script performance<br>- fixed script enabling glows for projectiles on multiple ticks<br>- removed obsolete code precaching an early dev model<br><br>Tank Run:<br>- During the finale, the double-Tank spawns are now set to 40 seconds instead of the normal 20 second timer.<br><br>Versus:<br>- Increased max ghost spawn timers to 24 seconds.<br>- Fixed witches time to kill on incapacitated survivors being faster than intended - it should now take the same time as pre-update.<br><br>Survival:<br>- Cane Field: Moved the ammo pile on the roof slightly.<br>- Float: Removed the ammo pile inside the house at the bottom of the stairs.<br>- Generator Room: Fixed ZombieDiscardRange not working properly.<br>- Crash Course Bridge: Marked nav areas behind a fence as NO MOBS.<br>- Gun Store: Clipped exploit area above barricades where infected wouldn't path to the Survivors.<br>- Cold Stream Junkyard: Removed alarmed car that's out-of-map.<br>- Terminal: Fixed ZombieSpawnRange not working properly.<br>- Waterfront: Blocked additional nav areas in an alley to prevent the Tank from getting stuck.<br><br>Versus Survival:<br>- The train door will now automatically open when the countdown timer reaches 0 on Train Car.<br><br>c1m1:<br>- Fixed issue where survivor bots refused to path through the kitchen fire area. <br>c1m3:<br>- Moved an exposed stairwell hurt trigger down inside a vending machine to stop it from killing players.<br>c2m2:<br>- Fixed a forklift being breakable by survivors<br>c3m3:<br>- Slightly adjusted an infected ladder to improve usability<br>c4m1 + c4m4:<br>- Blocked survivor access to a rooftop next to the playground commonly used to grief<br>- Added a ladder from map 2/3 for consistency between maps and to help players who fall off the safe room roof<br>c5m2:<br>- Added an infected ladder to get out of a stuck spot<br>- Added a hittable dumpster behind the bathrooms in the park<br>- Replaced a prop ladder on top of the bus station with an infected ladder<br>c5m3:<br>- Replaced a prop ladder with an infected ladder (behind the fence immediately after survivors drop towards the cemetery)<br>- Added an extra ladder to the above mentioned fence<br>c7m1:<br>- Fixed grenade launcher spawns having an incorrect count.<br>c8m1:<br>- Added a clip to prevent players movement being obstructed by a ladder near the car alarm<br>c11m1:<br>- Added wrong way signs above the greenhouse safe room<br>Last Stand:<br>- Fixed rescue closet spawns in the Junkyard so Survivors don't get stuck in the floor or wall.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/76112/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/76112/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/76112/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 01 Oct 2020 11:30:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-10-01T11:30:00-0700</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><br/><br><b>Scream Fortress XII has arrived!</b><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Featuring 4 new community maps: Megalo, Bloodwater, Hassle Castle, and Moldergrove<br><li>Added the Wicked Windfall Case<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Contains 22 new community-created cosmetic items that make up the Wicked Windfall Collection<br><li>Has a chance to give one of 6 new community-created Halloween-restricted items as a bonus item<br><li>Has a chance to give a taunt Unusualifier as a bonus item</ul><li>Added 19 new community-created Unusual effects<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>8 new effects for Unusual hats<br><li>11 new effects for Unusual taunts</ul><li>Added the Scream Fortress XII War Paint Case<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Contains 15 new community-created War Paints that make-up the Scream Fortress XII War Paint Collection<br><li>Has a chance to give a taunt Unusualifier as a bonus item</ul><li>All players who launch the game will receive a Soul Gargoyle if they don't already have one<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Grants access to Merasmissions and Halloween item transmutations<br><li>Tracks Merasmissions completed and souls collected</ul><li>All Halloween Contracts have been reset, allowing them to be completed again<br><li>Added new Contracts for this year's featured community maps<br><li>Completing a Halloween Contract will give players a classic Halloween item and the chance for a Wicked Windfall Case or Scream Fortress XII War Paint Case<br><li>Continue last year's event by collecting the souls of dead players for your Soul Gargoyle by killing enemies, doing map objectives, or collecting the Soul Gargoyles that spawn in the maps<br><li>All cosmetic and taunt Cases will grant Halloween 2020 Unusual effects instead of their normal Unusual effects during the event. This does not include Crates.<br><li>Join Halloween matches by using the Special Events category in Casual<br><li>Scream Fortress XII runs through November 7th, 2020<br></ul><b>General</b><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Added support for Steam Text Filtering for persona names and chat. This is enabled by default.<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>You can update your settings in the Adv. Options dialog<br><li>You can also update your settings by opting into the <a href="https://store.steampowered.com/account/preferences#CommunityContentPreferences">Steam Lab</a></ul><li>Updated The Cuban Bristle Crisis to add the smoke effect<br><li>Updated/Added some tournament medals<br><li>Updated the localization files<br></ul><b>Mannpower Update</b><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Map Changes<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>ctf_hellfire and ctf_gorge<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Flag return time increased from 15 to 30 seconds</ul><li>ctf_thundermountain<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Flag return time increased from 15 to 30 seconds<br><li>Removed a fence top ledge that snipers could exploit</ul></ul><li>Gameplay Changes<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Flag carrier grapple movement speed reduced<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Scout with no powerup or with Agility powerup &ndash; reduced to 0.8x regular grapple movement speed (down from regular grapple movement speed in previous version)<br><li>Scout with any other powerup - 0.65x normal grapple movement speed (no change from previous version)<br><li>Any other class without a powerup or with Agility powerup - reduced to 0.65x normal grapple movement speed (down from 0.8x in previous version)<br><li>Any other class with a powerup - reduced to 0.5x normal grapple movement speed (down from 0.65x in previous version)</ul><li>Critical hit damage rules changed<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Weapons that score critical hit boosts on airborne targets will no longer do so in Mannpower since being airborne is a far more important and commonly utilized movement style than in the base game<br><li>Melee weapons that score mini-crit damage no longer have their base Mannpower 1.3x damage boost</ul><li>Medic<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Free ride removed. Previously when healing a target, you&rsquo;d be pulled along with them when they moved by grappling hook.<br><li>Reduced heal rate and ubercharge build rate when carrying a powerup or healing someone with a powerup<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Medics carrying Haste or Agility are exempt from medic powerup checks<br><li>If medic has no powerup and target has no powerup &ndash; regular heal and uber build rate<br><li>If only one of the medic and the target has a powerup - half heal and uber build rate <br><li>If both medic and target have powerups - quarter heal and uber build rate</ul><li>Removed overheal from targets carrying powerups</ul><li>Heavy<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Removed the jump up boost when grappling. You can still jump to disconnect the hook, but the Heavy no longer gets the height boost when doing so.</ul><li>Soldier<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Battalion&rsquo;s Backup rage build rate reduced by 2.5x to counter the additional benefits of an extra 20hp and critical hit immunity when compared to the Buff Banner</ul><li>Engineer<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Carried buildings will now deploy instantly</ul><li>Scout <ul style="padding-bottom: 0px; margin-bottom: 0px;" >           <br><li>Removed falling damage</ul> <br><li>Spy<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Backstabs disallowed if you&rsquo;re connected to an enemy by the grappling hook. This applies if you&rsquo;re hooked into someone or if they&rsquo;re hooked into you.<br><li>Knife deploy time is no longer instant when switching between weapons, even when carrying Agility<br><li>Conniver&rsquo;s Kunai no longer considers the victim&rsquo;s powerup boosted health when taking damage dealt as health</ul><li>Haste buffs<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Reload speed increased from 2x normal to 4x normal<br><li>Pyro flare gun re-fire rate increased from 2x normal to 5x normal</ul><li>Vampire changes<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed a bug where the Vampire carrier wouldn&rsquo;t receive health from damage dealt by an explosion that also caused self-damage <br><li>Increased blast weapon clip size 1.5x</ul><li>Resistance changes<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Vampire no longer gets a 25% boost to their health received on melee attacks against a player carrying resistance</ul><li>Fixed bug where grapple would auto disconnect after a couple of seconds if the hook embedded in geometry behind clip volumes<br></ul><li>Game Balance Changes<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>When the game detects a skill imbalance between teams, select players will be moved between teams to address the imbalance<br><li>If a player is dominating the game for long enough (kills count is very high relative to the rest of the players in the game), they&rsquo;ll enter a dominant state for a period of time. This state has these effects:<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Marked for Death<br><li>Powerup modifications<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Reflect &ndash; maximum health reduced 400 to 320. Reflect damage reduced from 80% to 50%<br><li>Vampire &ndash; damage resistance removed. No blast weapon clip size increase<br><li>Strength &ndash; game multiplier reduced from 2x to 1.4x<br><li>Regeneration &ndash; health regenerates at 70% of the regular rate<br><li>Haste &ndash; weapon firing rate increase reduced from 2x to 1.5x.Weapon reload speed increase reduced from 4x to 2x<br><li>Knockout &ndash; melee damage increase reduced from 1.9x to 1.4x<br><li>King &ndash; max health increase reduced from 100 to 20<br><li>Plague &ndash; damage resistance to infected players reduced from 50% to 20%<br><li>Precision<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Sniper rifle - Scope speed increase reduced from 2x from 1.5x. Shot charge speed increase reduced from 3x to 2x. Damage bonus reduced from 2x to1.5x<br><li>Blast weapons - Regular blast radius falloff. No clip size increase</ul><li>Resistance &ndash; damage resistance reduced from 50% to 35%</ul><li>Server variables associated with this feature:<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>tf_powerup_mode_dominant_multiplier &ndash; the multiple over the server median that a player&rsquo;s kill count needs to be in order to be determined dominant<br><li>tf_powerup_mode_killcount_timer_length &ndash; the time interval to wait between tests for dominant players</ul></ul></ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/75976/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/75976/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/75976/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 28 Sep 2020 16:25:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-09-28T16:25:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Reoriented some of the new HUD images<br>- Updated several nav meshes based on feedback<br>- Fixed a bug where a door model was lacking prop data<br>- Fixed spontaneous muzzle flashes on certain rifles when playing online<br>- Adjusted knife's attack delay<br>- Fixed c10m3 versus survival tank spawn issue<br>- Fixed stuck spots on a few survival maps<br>- Various other fixes to the nav mesh from feedback<br>- Fixed a typo in one of the new shotgun sounds<br>- Fixed material sorting issues with skin mods on Molotov world model<br><br>Achievements:<br>- Only award "Fat Ninja" for a direct vomit attack, not a boomer explosion.<br>- Fixed "Golden Freeman" not awarding pickups on dedicated servers.<br>- Award survival medals to the entire team, including dead players.<br>- Fixed "The Big Ten" and "Supreme Survivalist" not unlocking on dedicated servers.<br>- Only award "The Last Frontier" on the Last Stand campaign.<br>- Don't award Survival achievements in Versus Survival and vice-versa<br><br>Survival:<br>- Waterfront - Removed cars outside the playable area to prevent infected from getting stuck.<br>- Generator Room - Increased ZombieDiscardRange.<br>- Church - Removed Laser Sights.<br>- Streets - Swapped the Military Sniper and the Ammo Pile spawns around.<br>- Warehouse - Removed mortar bags from under some stairs.<br>- Cold Stream Junkyard - Removed Laser Sights.<br><br>Versus Survival:<br>- Made it so the plane crash will trigger if the countdown timer reaches 0 on Runway.<br>- The Save 4 Less store door will now open when the timer reaches 0 on Gun Store.<br>- The alarmed door will now open when the timer reaches 0 on Warehouse.<br><br>Tank Run:<br>- Updated finales so rescue timer won't appear in Scavenge finales (you need to collect all the gas cans).<br>- Fixed The Sacrifice finale not working properly.<br>- Two Tanks will now spawn at once during the non-Scavenge finales.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/75935/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/75935/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/75935/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Sat, 26 Sep 2020 14:20:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-09-26T14:20:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Fixed some materials and models that were causing errors in workshop content.<br>- Reduced CS weapon spawn chance.<br>- Safe room intros will now continue regardless if anyone leaves the safe room.<br>- Fixed some witch call-outs<br>- Lit Bill's cigarette<br>Last Stand Junkyard<br>- Reduced intensity of horde spawned from generators.<br>- Versus Mode: Added an ammo pile near the mechanic shop.<br>- Versus Mode: Added a fire axe spawn to the safe room.<br>Last Stand Lighthouse<br>- Reduced intensity of horde during the Scavenge event.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/75925/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/75925/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/75925/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 25 Sep 2020 17:03:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-09-25T17:03:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Fixed voice data overflow on servers.<br>- Fixed carried prop collision to not interfere with bot movement.<br>- Fixed laser-sighted weapon spawn exploit in the gun shop.<br>- Reduced some ambient dialog frequency.]]></content:encoded>
+					</item>
+	</rdf:RDF>
