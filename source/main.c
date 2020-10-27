@@ -25,7 +25,6 @@ com o seguinte padrão:
 const char *title = "title";
 const char *link = "link";
 const char *description = "description";
-const char *channel = "channel";
 const char *item = "item";
 const char *pubDate = "pubDate";
 int main(void)
@@ -62,12 +61,10 @@ int main(void)
                 printf("</title>\n");
                 printf("</head>\n");
                 printf("<body>\n");
-                printf("<h%d>", i);
-                printf("</h%d>\n", i);
                 count = 1;
-                i++;
                 encontrouTag = 0;
                 puts("");
+                fseek(fp, 0, SEEK_SET);
             }
             else
             {
@@ -83,7 +80,8 @@ int main(void)
         {
             printf("<a href=");
             findContent(fp);
-            printf("</a>");
+            printf("> link");
+            printf(" </a>");
             encontrouTag = 0;
             puts("");
         }
@@ -92,13 +90,6 @@ int main(void)
             printf("<p>");
             findContent(fp);
             printf("</p>");
-            encontrouTag = 0;
-            puts("");
-        }
-        if ((encontrouTag == 1) && (strcmp(tag, channel) == 0))
-        {
-            puts("");
-            puts("<body>");
             encontrouTag = 0;
             puts("");
         }
