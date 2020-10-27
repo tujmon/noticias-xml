@@ -42,6 +42,17 @@ int main(void)
         {
             findTag(fp, tag);
             printf("%s\n", tag);
+            encontrouTag = 1;
+        }
+
+        if ((encontrouTag == 1) && (strcmp(tag, title) == 0))
+        {
+            findContent(fp);
+            encontrouTag = 0;
+            puts("");
         }
     }
+
+    fclose(fp);
+    return 0;
 }
