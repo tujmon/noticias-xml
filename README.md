@@ -1,21 +1,21 @@
 # trabalho-2
 
-## ambiente de desenvolvimento
+## Ambiente de desenvolvimento
 
 -   Ubuntu 20.04
 -   GCC
 
-## especificações
+## Especificações
 
 -   pegar dados de arquivo de notícias xml.
 
-## integrantes
+## Integrantes
 
 -   Arthur Monici
 -   Luis Felipe Rocha
 -   Walter Felizardo
 
-## como rodar
+## Como rodar
 
 -   Coloque estes comandos para rodar o programa
 
