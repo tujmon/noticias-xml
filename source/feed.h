@@ -8,7 +8,4 @@
 void findTag(FILE *fp, char tag[20]);
 void findContent(FILE *fp);
 
-const char *title = "title";
-const char *link = "link";
-const char *description = "description";
 #endif

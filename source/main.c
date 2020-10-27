@@ -22,6 +22,10 @@ com o seguinte padrão:
 
 #include "feed.h"
 
+const char *title = "title";
+const char *link = "link";
+const char *description = "description";
+
 int main(void)
 {
     FILE *fp;
@@ -41,12 +45,12 @@ int main(void)
         if (ch == '<')
         {
             findTag(fp, tag);
-            printf("%s\n", tag);
             encontrouTag = 1;
         }
 
         if ((encontrouTag == 1) && (strcmp(tag, title) == 0))
         {
+
             findContent(fp);
             encontrouTag = 0;
             puts("");
