@@ -1,4 +1,4 @@
-# trabalho-2
+# Trabalho 2
 
 ## Ambiente de desenvolvimento
 
@@ -7,7 +7,7 @@
 
 ## Especificações
 
--   pegar dados de arquivo de notícias xml.
+-   Pegar dados de arquivo de notícias xml.
 
 ## Integrantes
 
