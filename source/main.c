@@ -27,7 +27,7 @@ const char *link = "link";
 const char *description = "description";
 const char *channel = "channel";
 const char *item = "item";
-
+const char *pubDate = "pubDate";
 int main(void)
 {
     FILE *fp;
@@ -80,6 +80,12 @@ int main(void)
         {
             puts("");
             puts("item:");
+            encontrouTag = 0;
+            puts("");
+        }
+        if ((encontrouTag == 1) && (strcmp(tag, pubDate) == 0))
+        {
+            findContent(fp);
             encontrouTag = 0;
             puts("");
         }
