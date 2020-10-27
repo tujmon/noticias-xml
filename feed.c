@@ -12,3 +12,14 @@ void findTag(FILE *fp, char tag[20])
     }
     tag[i] = '\0';
 }
+
+void findContent(FILE *fp)
+{
+    int ch;
+
+    fseek(fp, 9, SEEK_CUR);
+    while (((ch = fgetc(fp)) != EOF) && (ch != ']'))
+    {
+        printf("%c", ch);
+    }
+}
