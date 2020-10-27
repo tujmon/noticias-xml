@@ -20,7 +20,7 @@ extrai as seguintes informações:
 com o seguinte padrão:
 */
 #include <stdio.h>
-#include "functions.h"
+#include "feed.h"
 void findTag(FILE *fp, char tag[20]);
 
 int main(void)
