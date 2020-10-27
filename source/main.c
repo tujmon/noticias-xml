@@ -25,6 +25,8 @@ com o seguinte padrão:
 const char *title = "title";
 const char *link = "link";
 const char *description = "description";
+const char *channel = "channel";
+const char *item = "item";
 
 int main(void)
 {
@@ -33,7 +35,7 @@ int main(void)
     char tag[20] = "";
     int encontrouTag = 0;
 
-    fp = fopen("./globo.xml", "r");
+    fp = fopen("./elpais.xml", "r");
 
     if (fp == NULL)
     {
@@ -47,7 +49,6 @@ int main(void)
             findTag(fp, tag);
             encontrouTag = 1;
         }
-
         if ((encontrouTag == 1) && (strcmp(tag, title) == 0))
         {
             findContent(fp);
@@ -65,6 +66,20 @@ int main(void)
         {
 
             findContent(fp);
+            encontrouTag = 0;
+            puts("");
+        }
+        if ((encontrouTag == 1) && (strcmp(tag, channel) == 0))
+        {
+            puts("");
+            puts("channel:");
+            encontrouTag = 0;
+            puts("");
+        }
+        if ((encontrouTag == 1) && (strcmp(tag, item) == 0))
+        {
+            puts("");
+            puts("item:");
             encontrouTag = 0;
             puts("");
         }

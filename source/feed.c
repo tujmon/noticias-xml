@@ -16,9 +16,20 @@ void findTag(FILE *fp, char tag[20])
 void findContent(FILE *fp)
 {
     int ch;
-
-    while (((ch = fgetc(fp)) != EOF) && (ch != '<')) /*o erro está no ]*/
+    if ((ch = fgetc(fp)) != EOF && (ch != '<'))
     {
         printf("%c", ch);
+        while (((ch = fgetc(fp)) != EOF) && (ch != '<'))
+        {
+            printf("%c", ch);
+        }
+    }
+    else
+    {
+        fseek(fp, 9, SEEK_CUR);
+        while (((ch = fgetc(fp)) != EOF) && (ch != ']'))
+        {
+            printf("%c", ch);
+        }
     }
 }
