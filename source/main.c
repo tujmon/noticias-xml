@@ -34,6 +34,7 @@ int main(void)
     int ch;
     char tag[20] = "";
     int encontrouTag = 0;
+    int i = 1;
 
     fp = fopen("./elpais.xml", "r");
 
@@ -51,41 +52,48 @@ int main(void)
         }
         if ((encontrouTag == 1) && (strcmp(tag, title) == 0))
         {
+            printf("<h%d>", i);
             findContent(fp);
+            printf("</h%d>", i);
+            i++;
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, link) == 0))
         {
-
+            printf("<a href=");
             findContent(fp);
+            printf("</a>");
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, description) == 0))
         {
-
+            printf("<p>");
             findContent(fp);
+            printf("</p>");
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, channel) == 0))
         {
             puts("");
-            puts("channel:");
+            puts("<channel>");
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, item) == 0))
         {
             puts("");
-            puts("item:");
+            puts("<hr>");
             encontrouTag = 0;
             puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, pubDate) == 0))
         {
+            printf("<p>");
             findContent(fp);
+            printf("</p>");
             encontrouTag = 0;
             puts("");
         }
