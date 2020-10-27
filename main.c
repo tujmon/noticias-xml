@@ -19,9 +19,8 @@ extrai as seguintes informações:
 3) Essas informações deverão ser salvas em um arquivo de formato .html
 com o seguinte padrão:
 */
-#include <stdio.h>
+
 #include "feed.h"
-void findTag(FILE *fp, char tag[20]);
 
 int main(void)
 {
