@@ -35,6 +35,7 @@ int main(void)
     char tag[20] = "";
     int encontrouTag = 0;
     int i = 1;
+    int count = 0;
 
     fp = fopen("./elpais.xml", "r");
 
@@ -52,12 +53,31 @@ int main(void)
         }
         if ((encontrouTag == 1) && (strcmp(tag, title) == 0))
         {
-            printf("<h%d>", i);
-            findContent(fp);
-            printf("</h%d>", i);
-            i++;
-            encontrouTag = 0;
-            puts("");
+            if (count == 0)
+            {
+                printf("<html>\n");
+                printf("<head>\n");
+                printf("    <title>");
+                findContent(fp);
+                printf("</title>\n");
+                printf("</head>\n");
+                printf("<body>\n");
+                printf("<h%d>", i);
+                printf("</h%d>\n", i);
+                count = 1;
+                i++;
+                encontrouTag = 0;
+                puts("");
+            }
+            else
+            {
+                printf("<h%d>", i);
+                findContent(fp);
+                printf("</h%d>", i);
+                i++;
+                encontrouTag = 0;
+                puts("");
+            }
         }
         if ((encontrouTag == 1) && (strcmp(tag, link) == 0))
         {
@@ -78,7 +98,7 @@ int main(void)
         if ((encontrouTag == 1) && (strcmp(tag, channel) == 0))
         {
             puts("");
-            puts("<channel>");
+            puts("<body>");
             encontrouTag = 0;
             puts("");
         }
@@ -98,6 +118,11 @@ int main(void)
             puts("");
         }
     }
+    puts("");
+    printf("<hr>");
+    puts("");
+    printf("</body>\n");
+    printf("</html>");
 
     fclose(fp);
     return 0;
