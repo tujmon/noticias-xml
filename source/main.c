@@ -70,8 +70,15 @@ int main(void)
                 fprintf(fp2, "%s", "<body>\n");
                 count = 1;
                 encontrouTag = 0;
-                puts("");
                 fseek(fp, 0, SEEK_SET);
+            }
+            else if (count == 1)
+            {
+                fprintf(fp2, "%s", "<h1>");
+                findContent(fp, fp2);
+                fprintf(fp2, "%s", "</h1>\n");
+                encontrouTag = 0;
+                count = 2;
             }
             else
             {
@@ -79,7 +86,6 @@ int main(void)
                 findContent(fp, fp2);
                 fprintf(fp2, "%s", "</h2>\n");
                 encontrouTag = 0;
-                puts("");
             }
         }
         if ((encontrouTag == 1) && (strcmp(tag, link) == 0))
@@ -89,7 +95,6 @@ int main(void)
             fprintf(fp2, "%s", ">Saiba mais");
             fprintf(fp2, "%s", " </a>\n");
             encontrouTag = 0;
-            puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, description) == 0))
         {
@@ -97,7 +102,6 @@ int main(void)
             findContent(fp, fp2);
             fprintf(fp2, "%s", "</p>\n");
             encontrouTag = 0;
-            puts("");
         }
         if ((encontrouTag == 1) && (strcmp(tag, item) == 0))
         {
@@ -111,12 +115,9 @@ int main(void)
             findContent(fp, fp2);
             fprintf(fp2, "%s", "</p>\n");
             encontrouTag = 0;
-            puts("");
         }
     }
-    puts("");
     fprintf(fp2, "%s", "<hr>\n");
-    puts("");
     fprintf(fp2, "%s", "</body>\n");
     fprintf(fp2, "%s", "</html>");
 
