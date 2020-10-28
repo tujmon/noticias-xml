@@ -86,7 +86,7 @@ int main(void)
         {
             fprintf(fp2, "%s", "<a href=");
             findContent(fp, fp2);
-            fprintf(fp2, "%s", ">Saber mais");
+            fprintf(fp2, "%s", ">Saiba mais");
             fprintf(fp2, "%s", " </a>\n");
             encontrouTag = 0;
             puts("");
